@@ -55,3 +55,28 @@ xxv-xxvi: "Five Historical Forces"--"exogenous forces that favour our peaceable 
 Chapter 1: A Foreign Country
 --
 
+1:  "If the past is a foreign country, it is a shockingly violent one. It is easy to forget how dangerous life used to be, how deeply brutality was once woven into the fabric of daily existence. Cultural memory pacifies the past, leaving us with pale souvenirs whose bloody origins have been bleached away."
+
+6:  "The men's ingenuity, applied so resourcefully to weapons and strategy, turned up empty-handed when it came to the earthly causes of war. Rather than framing the scourge of warfare as a human problem for humans to solve, they concocted a fantasy of hotheaded gods and attributed their own tragedies to the gods' jealousies and follies."
+
+7:  "For millennia readers have puzzled over why God insisted on this horrifying trial. One interpretation is that God intervened not because Abraham had passed the test but because he had failed it, but that is anachronistic: obedience to divine authority, not reverence for human life, was the cardinal virtue."
+
+11:  "Whether or not the Israelites actually engaged in genocide, they certainly thought it was a good idea. The possibility that a woman had a legitimate interest in not being raped or acquired as sexual property did not seem to register in anyone's mind. The writers of the Bible saw nothing wrong with slavery or with cruel punishments like blinding, stoning, and hacking someone to pieces. Human life held no value in comparison with unthinking obedience to custom and authority."
+
+13:  "Thought I like to think that nothing human is foreign to me, I find it impossible to put myself in the minds of the ancients who devised this orgy of sadism. Even if I had custody of Hitler and could mete out the desert of my choice, it would not occur to me to inflict a torture like that [crucifixion] on him. I could not avoid wincing in sympathy, would not want to become the kind of person who could indulge in such cruelty, and could see no point in adding to the world's reservoir of suffering without a commensurate benefit. (Even the practical goal of deterring future despots, I would reason, is better served by maximizing the expectation that they will be brought to justice than by maximizing the gruesomeness of the penalty.)"
+
+	But: suffering of one/some is justified on the basis of benefit to greater number of others.
+
+15:  "The voyeurism in the martyrologies was employed not to evoke outrage against torture but to inspire reverence for the bravery of the martyrs. As in the story of Jesus, torture was an excellent thing. The saints welcomed their torments, because suffering in this life would be rewarded with bliss in the next one."
+
+16:  "As so often happens in the history of atrocity, later centuries would treat these horrors in lighthearted ways. In popular culture today witches not the victims of torture and execution but mischievous cartoon characters or sassy enchantresses, like Broom-Hilda, Witch Hazel, Glinda, Samantha, and the Halliwell sisters in *Charmed*."
+
+	Not sure this makes the least bit of sense.
+	
+17:  "Once again, the point of this discussion is not to accuse Christians of endorsing torture and persecution. *Of course* most devout Christians today are thoroughly tolerant and humane people. Even those who thunder from televised pulpits do not call for burning heretics alive or hoisting Jews on the strappado. The question is why they don't, given that their beliefs imply that it would serve the greater good. The answer is that people in the West today compartmentalize their religious ideology. When they affirm their faith in houses of worship, they profess beliefs that have barely changed in two thousand years. But when it comes to their actions, they respect modern norms of nonviolence and toleration, a benevolent hypocrisy for which we should all be grateful."
+
+23:  "The career of dueling showcases a puzzling phenomenon we will often encounter: a category of violence can be embedded in a civilization for centuries and then vanish into thin air. When gentlemen agreed to a duel, they were fighting not for money or land or even women but for honor, the strange commodity that exists because everyone believes that everyone else believes that it exists. Honor is a bubble that can be inflated by some parts of human nature, such as the drive for prestige and the entrenchment of norms, and popped b others, such as a sense of humor. The institution of formal dueling petered out in the English-speaking world by the middle of the 19th century, and in the rest of Europe in the following decades. Historians have noted that the institution was buried not so much by legal bans or moral disapproval as by ridicule."
+
+23:  "But in the West today public places are no longer named after military victories. Our war memorials depict not proud commanders on horseback but weeping mothers, weary soldiers, or exhaustive lists of names of the dead. Military men are inconspicuous in public life, with drab uniforms and little prestige among the hoi polloi."
+
+25:  "Another major change we have lived through is an intolerance of displays of force in everyday life. In earlier decades a man's willingness to use his fists in response to an insult was the sign of respectability. Today it is the sign of a boor, a symptom of impulse control disorder, a ticket to anger management therapy."
