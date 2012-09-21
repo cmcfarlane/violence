@@ -50,8 +50,6 @@ xxv-xxvi: "Five Historical Forces"--"exogenous forces that favour our peaceable 
 4. Cosmopolitanism: "literacy, mobility, and mass media can prompt people to take the perspective of people unlike themselves and to expand their circle of sympathy to embrace them";
 5. Escalator of reason: "intensifying application of knowledge and rationality to human affairs".
 
-
-
 Chapter 1: A Foreign Country
 --
 
@@ -75,7 +73,7 @@ Chapter 1: A Foreign Country
 	
 17:  "Once again, the point of this discussion is not to accuse Christians of endorsing torture and persecution. *Of course* most devout Christians today are thoroughly tolerant and humane people. Even those who thunder from televised pulpits do not call for burning heretics alive or hoisting Jews on the strappado. The question is why they don't, given that their beliefs imply that it would serve the greater good. The answer is that people in the West today compartmentalize their religious ideology. When they affirm their faith in houses of worship, they profess beliefs that have barely changed in two thousand years. But when it comes to their actions, they respect modern norms of nonviolence and toleration, a benevolent hypocrisy for which we should all be grateful."
 
-23:  "The career of dueling showcases a puzzling phenomenon we will often encounter: a category of violence can be embedded in a civilization for centuries and then vanish into thin air. When gentlemen agreed to a duel, they were fighting not for money or land or even women but for honor, the strange commodity that exists because everyone believes that everyone else believes that it exists. Honor is a bubble that can be inflated by some parts of human nature, such as the drive for prestige and the entrenchment of norms, and popped b others, such as a sense of humor. The institution of formal dueling petered out in the English-speaking world by the middle of the 19th century, and in the rest of Europe in the following decades. Historians have noted that the institution was buried not so much by legal bans or moral disapproval as by ridicule."
+23:  "The career of dueling showcases a puzzling phenomenon we will often encounter: a category of violence can be embedded in a civilization for centuries and then vanish into thin air. When gentlemen agreed to a duel, they were fighting not for money or land or even women but for honor, the strange commodity that exists because everyone believes that everyone else believes that it exists. Honor is a bubble that can be inflated by some parts of human nature, such as the drive for prestige and the entrenchment of norms, and popped by others, such as a sense of humor. The institution of formal dueling petered out in the English-speaking world by the middle of the 19th century, and in the rest of Europe in the following decades. Historians have noted that the institution was buried not so much by legal bans or moral disapproval as by ridicule."
 
 23:  "But in the West today public places are no longer named after military victories. Our war memorials depict not proud commanders on horseback but weeping mothers, weary soldiers, or exhaustive lists of names of the dead. Military men are inconspicuous in public life, with drab uniforms and little prestige among the hoi polloi."
 
