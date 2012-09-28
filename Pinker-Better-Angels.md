@@ -1,6 +1,8 @@
 Pinker, Steven. *The Better Angels of Our Nature: Why Violence Has Declined*. New York: Viking, 2011.
 ==
 
+One wonders if Pinker's utopia would be a strong centralized state, para-militarized police footpatrolling in neighbourhoods, heavy-handed enforcement of minor offences of the poor (graffiti, theft, loitering, homelessness) [123], incarceration to the point of diminishing returns [121-3], strict population control in the developing world (especially global south), equally strict population control in North American and European societies for the poor, but no population control if you meet a property and decency qualification, and otherwise free markets.
+
 Preface
 --
 
@@ -240,3 +242,42 @@ Pinker claims that Elias gives two exogenous factors.
 105:  "The West was eventually tamed not just by flinty-eyed marshals and hanging judges but by an influx of women."
 
 106:  "The North is an extension of Europe and continued the court- and commerce-driven Civilizing Process that had been gathering momentum since the Middle Ages. The South and West preserved the culture of honor that sprang up in the anarchic parts of the growing country, balanced by their own civilizing forces of churches, families, and temperance."
+
+106-7:  "For all the lags and mismatches between the historical trajectories of the United States and Europe, they did undergo one trend in synchrony: their rates of violence did a U-turn in the 1960s. [...] European countries underwent a bounce in homicide rates that brought them back to levels they had said goodbye to a century before. [...] in the 1960s the homicide rate in America went through the roof. After a three-decade free fall that spanned the Great Depression, WOrld War II, and the Cold War, Americans multiplied their homicide rate by more than two and a half, from a low of 4.0 in 1957 to a high of 10.2 in 1980. The upsurge included every other category of major crime as well, including rape, assault, robbery, and theft, and lasted (with ups and downs) for three decades. The cities got particularly dangerous, especially New York, which became a symbol of the new criminality. Though the surge in violence affected all the races and both genders, it was most dramatic among black men, whose annual homicide rate had shot up by the mid-1980s to 72 per 100,000."
+
+107:  "The flood of violence from the 1960s through the 1980s reshaped American culture, the political scene, and everyday life."
+
+107-8:  "The rebounding of violence in the 1960s defied every expectation. The decade was a time of unprecedented economic growth, nearly full employment, levels of economic equality for which people today are nostalgic, historic race progress, and the blossoming of government social programs, not to mention medical advances that made victims more likely to survive being shot or knifed."
+
+108:  "If it were just a matter of there being more teenagers and twenty-somethings who were committing crimes at their usual rates, the increase in crime from 1960 to 1970 would have been 13 percent, not 135 percent. Young men weren't simply more numerous than their predecessors; they were more violent too."
+
+109:  "In many ways the new generation tried to push back against the eight-century movement described by Norbert Elias."
+
+109:  "This common knowledge [network TV/mass media], as economists and logicians call it, gave rise to a horizontal web of solidarity that cut across the vertical ties to parents and authorities that had formerly isolated young people from one another and forced them to kowtow to their elders."
+
+109-10:  "A sense of solidarity among fifteen-to-thirty-year-olds would be a menace to civilized society even in the best of times. But this decivilizing process was magnified by a trend that had been gathering momentum throughout the 20th century. The sociologist Cas Wouters, a translator and intellectual heir of Elias, has argued that after the European Civilizing Process had run its course, it was superseded by an *informalizing process*. The Civilizing Process had been a flow of norms and manners from the upper classes downward. But as Western countries became more democratic, the upper classes became increasingly discredited as moral paragons, and hierarchies of taste and manners were leveled [sic]. The informalization affected the way people dressed, as they abandoned hats, gloves, ties, and dresses for casual sportswear. It affect the language, as people started to address their friends with first names instead of *Mr.* and *Mrs.* and *Miss*. And it could be seen in countless other ways in which speech and demeanor became less mannered and more spontaneous."
+
+110:  "After having been steadily beaten down by the informalizing process, the elites then suffered a second hit to their legitimacy. The civil rights movement had exposed a moral blot on the American establishment, and as critics shone a light on other parts of society, more stains came into view. Among them were the threat of a nuclear holocaust, the pervasiveness of poverty, the mistreatment of Native Americans, the many illiberal military interventions, particularly the Vietnam War, and later the despoliation of the environment and the oppression of women and homosexuals. The state enemy of the Western establishment, Marxism, gained prestige as it made inroads in third-world 'liberation' movements, and it was increasingly embraced by bohemians and fashionable intellectuals. Surveys of popular opinion from the 1960s through the 1990s showed a plummeting of trust in every social institution."
+
+111:  "Together with self-control and societal connectedness, a third ideal came under attack: marriage and family life, which had done much to domesticate male violence in the preceding decades."
+
+	Eliding here. The first point--now glossed as 'societal connectedness'--was originally expressed in terms in the decline of the moral authority of the elites due to, among other things, growing solidarity among youth. The issue isn't the 'ideal' of 'societal connectedness' coming into disrepute, but rather a horizontal rather than vertical version of 'connectedness.'
+	
+115:  "Even more calamitous than the return of hoodlums to the street was the mutual disengagement between law enforcement and communities, and the resulting deterioration of neighborhood life."
+
+115:  "The 1960s decivilizing process affected the choices of individuals as well as policymakers. Many young men decided that they ain't gonna work on Maggie's farm no more and, instead of pursuing a respectable family life, hung out in all-male packs that spawned the familiar cycle of competition for dominance, insult or minor aggression, and violent retaliation."
+
+119:  "Among economic measures, inequality is generally a better predictor of violence than unemployment."
+
+121:  "So how *can* we explain the recent crime decline? [...] The first is that the Leviathan got bigger, smarter, and more effective. The second is that the Civilizing Process, which the counterculture had tried to reverse in the 1960s, was restored to its forward direction. Indeed, it seems to have entered a new phase."
+
+121:  "By the early 1990s, Americans had gotten sick of the muggers, vandals, and drive-by shootings, and the country beefed up the criminal justice system in several ways. The most effective was also the crudest: putting more men behind bars for longer stretches of time."
+
+122:  "Imprisonment physically removes the most crime-prone individuals from the streets, incapacitating them and subtracting the crimes they would have committed from the statistics. Incarceration is especially effective when a small number of individuals commit a large number of crimes."
+
+123:  "A second way in which Leviathan became more effective in the 1990s was a ballooning of the police. [...] Additional cops not only nab more criminals but are more noticeable by their presence, deterring people from committing crimes in the first place. And many of the police earned back their old nickname *flatfoots* by walking a beat and keeping an eye on the neighborhood rather than sitting in cars and awaiting a radio call before speeding to a crime scene. [...] The visibility of the police was multiplied by a mandate to go after nuisance crimes like graffiti, littering, aggressive panhandling, drinking liquor or urinating in public, and extorting cash from drivers at stoplights after a cursory wipe of their windshield with a filthy squeegee. The rationale, originally articulated by James Q. Wilson and George Kelling in their famous Broken Windows theory, was that an orderly environment serves as a reminder that police and residents are dedicated to keeping the peace, whereas a vandalized and unruly one is a signal that no one is in charge."
+
+125:  "The Great Crime Decline of the 1990s was part of a change in sensibilities that can fairly be called a recivilizing process. To start with, some of the goofier ideas of the 1960s had lost their appeal. The collapse of communism and a recognition of its economic and humanitarian catastrophes took the romance out of revolutionary violence and cast doubt on the wisdom of redistributing wealth at the point of a gun."
+
+Chapter 4: The Humanitarian Revolution
+---
