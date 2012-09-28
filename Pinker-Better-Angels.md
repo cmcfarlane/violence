@@ -12,7 +12,7 @@ xxi:  "How, in particular, are we to make sense of *modernity*--of the erosion o
 
 xxii:  "By the standards of the mass atrocities of human history, the lethal injection of a murderer in Texas, or an occasional hate crime in which a member of an ethnic minority is intimidated by hooligans, is pretty mild stuff. But from a contemporary vantage point, we see them as signs of how low our behaviour can sink, not of how high our standards have risen."
 
-	Okay, but is this the correct standard? Playing off a murder versus the Holocaust?
+Okay, but is this the correct standard? Playing off a murder versus the Holocaust?
 
 xxii:  "The problems I have set out to understand is the reduction in violence at many scales--in the family, in the neighbourhood, between tribes and other armed factions, and among major nations and states."
 
@@ -65,13 +65,13 @@ Chapter 1: A Foreign Country
 
 13:  "Thought I like to think that nothing human is foreign to me, I find it impossible to put myself in the minds of the ancients who devised this orgy of sadism. Even if I had custody of Hitler and could mete out the desert of my choice, it would not occur to me to inflict a torture like that [crucifixion] on him. I could not avoid wincing in sympathy, would not want to become the kind of person who could indulge in such cruelty, and could see no point in adding to the world's reservoir of suffering without a commensurate benefit. (Even the practical goal of deterring future despots, I would reason, is better served by maximizing the expectation that they will be brought to justice than by maximizing the gruesomeness of the penalty.)"
 
-	But: suffering of one/some is justified on the basis of benefit to greater number of others.
+But: suffering of one/some is justified on the basis of benefit to greater number of others.
 
 15:  "The voyeurism in the martyrologies was employed not to evoke outrage against torture but to inspire reverence for the bravery of the martyrs. As in the story of Jesus, torture was an excellent thing. The saints welcomed their torments, because suffering in this life would be rewarded with bliss in the next one."
 
 16:  "As so often happens in the history of atrocity, later centuries would treat these horrors in lighthearted ways. In popular culture today witches not the victims of torture and execution but mischievous cartoon characters or sassy enchantresses, like Broom-Hilda, Witch Hazel, Glinda, Samantha, and the Halliwell sisters in *Charmed*."
 
-	Not sure this makes the least bit of sense.
+Not sure this makes the least bit of sense.
 	
 17:  "Once again, the point of this discussion is not to accuse Christians of endorsing torture and persecution. *Of course* most devout Christians today are thoroughly tolerant and humane people. Even those who thunder from televised pulpits do not call for burning heretics alive or hoisting Jews on the strappado. The question is why they don't, given that their beliefs imply that it would serve the greater good. The answer is that people in the West today compartmentalize their religious ideology. When they affirm their faith in houses of worship, they profess beliefs that have barely changed in two thousand years. But when it comes to their actions, they respect modern norms of nonviolence and toleration, a benevolent hypocrisy for which we should all be grateful."
 
@@ -86,11 +86,11 @@ Chapter 2: The Pacification Process
 
 31:  "Yet both men [Hobbes, Darwin] gave us insights about violence that are deeper, subtler, and ultimately more humane than their eponymous adjectives imply. Today any understanding of human violence must being with their analyses."
 
-	*Any*, *must*?
+*Any*, *must*?
 	
 32:  Referring to Dawkins's "survival machines," comments "In much of the living world, violence is simply the default, something that needs no further explanation."
 
-	This is a rather dubious claim. Does it not raise the issue of *why* something is the default?
+This is a rather dubious claim. Does it not raise the issue of *why* something is the default?
 	
 32-3:  "Any organism that has evolved to be violent is a member of a species whose other members, on average, have evolved to be just as violent. If you attack one of your own kind, your adversary may be as strong and pugnacious as you are, and armed with the same weapons and defenses. The likelihood that, in attacking a member of your own species, you will get hurt is a powerful selection pressure that disfavors indiscriminate pouncing or lashing out. It also rules out the hydraulic metaphor and most folk theories of violence, such as thirst for blood, a death wish, a killer instinct, and other destructive itches, urges, and impulses. When a tendency toward violence evolves, it is always *strategic*. Organisms are selected to deploy violence only in circumstances where the expected benefits outweigh the expected costs."
 
@@ -106,13 +106,13 @@ Chapter 2: The Pacification Process
 
 38:  "All they [male chimps] care about is dominating their territory and eliminating rivals if they can do so with minimal risks to themselves. The evolutionary benefits [food, females] happen indirectly and over the long run."
 
-	Okay, but how are long-run evolutionary benefits or detriments in any way related or determinate of present action? 
+Okay, but how are long-run evolutionary benefits or detriments in any way related or determinate of present action? 
 	
 39:  "The idea that humans evolved from a peaceful, bonobolike ancestor has two problems. One is that it is easy to get carried away with the hippie-chimp story. [...] The second and more important problem is that the common ancestor of the two chimpanzee species and humans is far more likely to have been like a common chimpanzee than like a bonobo."
 
-	Two problems with this. First, you can get carried away with hippie-chimp but not murder-chimp? This is dubious. Second, goalpost moving isn't especially helpful. Even if the most recent common ancestor was more murder-chimp-like, it remains the case that bonobos nonetheless descended from the ur-murder-chimp. If bonobos can, why not humans?
+Two problems with this. First, you can get carried away with hippie-chimp but not murder-chimp? This is dubious. Second, goalpost moving isn't especially helpful. Even if the most recent common ancestor was more murder-chimp-like, it remains the case that bonobos nonetheless descended from the ur-murder-chimp. If bonobos can, why not humans?
 	
-	Pinker explains that bonobos underwent neoteny; i.e., quasi-domestication. In other words, became chimp-civilized. Humans did not/could not?
+Pinker explains that bonobos underwent neoteny; i.e., quasi-domestication. In other words, became chimp-civilized. Humans did not/could not?
 	
 41:  "When the first farmers settled down to grow grains and legumes and keep domesticated animals, their numbers exploded and they began to divide their labours, so that some of them lived off the food grown by others."
 
@@ -136,17 +136,17 @@ Chapter 2: The Pacification Process
 
 47:  "The choice confronts us with the moral imponderable of whether it is worse for 50 percent of a population of one hundred to be killed or 1 percent of a population of one billion. In one frame of mind, one could say that a person who is tortured or killed suffers to the same degree regardless of how many other people meet such a fate, so it is the sum of these sufferings that should engage our sympathy and our analytic attention. But in another frame of mind, one could reason that part of the bargain of being alive is that one takes a chance at dying a premature or painful death, be it from violence, accident, or disease. So the number of people in a given time and place who enjoy full lives has to be counted as moral good, against which we calibrate the moral bad of the number who are victims of violence. Another way of expressing this frame of mind is to ask, 'If *I* were one of the people who were alive in a particular era, what would be the chances that I would be a victim of violence?' The reasoning in this second frame of mind, whether it appeals to the proportion of a population or the risk to an individual, ends in the conclusion that in comparing the harmfulness of violence across societies, we should focus on the rate, rather than the number, of violent acts."
 
-	This is incoherent, even if the conclusion is correct--which is debatable.
+This is incoherent, even if the conclusion is correct--which is debatable.
 	
-	1. The inital choice is false. Qua violent death, it is equally a harm whether it is a population of 100 or a population of 1 billion. In either case, a given being is experience an act of violence that leads to death.
-	2. The point about torture and suffering is poorly made. In a population of 100, what is called "torture" would most likely be found in the context of an initiatory rite. In other words, in that population of 100, torture would not be used as punishment or information gathering--as it would, in say, a population of 1 billion--and it would perform a positive integrative function that is recognize as such by both the tribe and the individuals. Torture in tiny tribal societies and in massive societies have different valences that cannot simply be erased in a silly "thought" "experiment." Nonetheless, it is clearly the case that it is worse for 10 million (1 percent of 1 billion) to suffer horribly than for 50 people, notwithstanding the fact that each individual suffers more or less the same. 
-	3. "Part of the bargain..." If suffering is the only game in town, the issue isn't how to make the calculation (absolute vs. relative) but to (1) determine how suffering can be minimized and (2) consider the possibility that if suffering is the only game in town, that the game is rigged--hence, non-existence is preferable to existence.
-	4. The hypothetical question is poorly posed in that it privileges the perspective of present ("I" reading this book in the early twenty-first century where violence has a negative valence and where it is rare) at the expense of the past. Ask the ultraviolent tribesman if he would give up his life in the jungle in favour of civilized life in the city and chances are that he'd laugh at the absurdity of the question.
-	5. The conclusion does not follow. Rather, it begs the question.
+1. The inital choice is false. Qua violent death, it is equally a harm whether it is a population of 100 or a population of 1 billion. In either case, a given being is experience an act of violence that leads to death.
+2. The point about torture and suffering is poorly made. In a population of 100, what is called "torture" would most likely be found in the context of an initiatory rite. In other words, in that population of 100, torture would not be used as punishment or information gathering--as it would, in say, a population of 1 billion--and it would perform a positive integrative function that is recognize as such by both the tribe and the individuals. Torture in tiny tribal societies and in massive societies have different valences that cannot simply be erased in a silly "thought" "experiment." Nonetheless, it is clearly the case that it is worse for 10 million (1 percent of 1 billion) to suffer horribly than for 50 people, notwithstanding the fact that each individual suffers more or less the same. 
+3. "Part of the bargain..." If suffering is the only game in town, the issue isn't how to make the calculation (absolute vs. relative) but to (1) determine how suffering can be minimized and (2) consider the possibility that if suffering is the only game in town, that the game is rigged--hence, non-existence is preferable to existence.
+4. The hypothetical question is poorly posed in that it privileges the perspective of present ("I" reading this book in the early twenty-first century where violence has a negative valence and where it is rare) at the expense of the past. Ask the ultraviolent tribesman if he would give up his life in the jungle in favour of civilized life in the city and chances are that he'd laugh at the absurdity of the question.
+5. The conclusion does not follow. Rather, it begs the question.
 
 50:  "They conservatively list about 40 million battle deaths during the 20th century. ('Battle deaths' refer to soldiers and civilians who were directly killed in combat.)"
 
-	The use of direct is questionable: the extent to which contemporaries are dependent on infrastructure differs from that of non-contemporaries insofar as 20th century people tend to be dependent upon food they didn't grow, water from central sources, power, heat, and so on. Furthermore, it does not control for medical and surgical technologies. If the 20th century has a lower death rate than previous centuries with respect to war, it could be because infections can be controlled, wounds closed up, and the like. People who don't die now would have died in the past shortly after battle.
+The use of direct is questionable: the extent to which contemporaries are dependent on infrastructure differs from that of non-contemporaries insofar as 20th century people tend to be dependent upon food they didn't grow, water from central sources, power, heat, and so on. Furthermore, it does not control for medical and surgical technologies. If the 20th century has a lower death rate than previous centuries with respect to war, it could be because infections can be controlled, wounds closed up, and the like. People who don't die now would have died in the past shortly after battle.
 	
 51:  "The economists Richard Steckel and John Wallis recently looked at data on nine hundred skeletons of Native Americans, distributed from southern Canada to South America, all of whom died before the arrival of Columbus. They divided the skeletons into hunter-gatherers and city dwellers, the latter from the civilizations in the Andes and Mesoamerica such as the Incas, Aztecs, and Mayans. The proportion of hunter-gatherers that showed signs of violent trauma was 13.4 percent, which is close to the average for the hunter-gathers in figure 2-2. The proportion of city dwellers that showed signs of violent trauma was 2.7 percent, which is close to the figures for the state societies before the present century. So holding many factors constant, we find that living in a civilization reduces one's chances of being a victim of violence fivefold."
 
@@ -158,7 +158,7 @@ Chapter 2: The Pacification Process
 
 57:  "A few cavities, the odd abscess, and a couple of inches in height were a small price to pay for a fivefold better chance of not getting speared."
 
-	But, given the number of people who refused such a life even though they were aware of such lives suggests that it could lead to the opposite conclusion.
+But, given the number of people who refused such a life even though they were aware of such lives suggests that it could lead to the opposite conclusion.
 	
 58:  "When it came to violence, then, the first Leviathans solved one problem but created another. People were less likely to become victims of homicide or casualties in war, but they were now under the thumbs of tyrants, clerics, and kleptocrats. This gives us the more sinister sense of the word *pacification*: not just the bringing about of peace but the imposition of absolute control by a coercive government. Solving this second problem would have to wait another few millennia, and in much of the world it remains unsolved to this day."
 
@@ -169,9 +169,9 @@ Chapter 3: The Civilizing Process
 
 62:  "Eisner cites studies showing that when people today are presented with the circumstances of a centuries-old murder and asked whether they think it was intentional, they usually come to the same conclusion as did the people at the time."
 
-	Assuming Eisner is correct, the relevance isn't entirely clear and this is an important point. Even if both groups agree that it was intentional, this does not make it a crime. After all, a number of intentional homicides are excused in the present. The range of excusable homicides in the past was greater. And, indeed, the distinction between intentional and non-intentional homicide had to be constructed. The relevance of this doesn't relate to the body count, but to how the body count was understood, which is significant. This is a point that Pinker repeatedly ignores: violence could have a positive valence or, at least, be accepted as unescapable.
+Assuming Eisner is correct, the relevance isn't entirely clear and this is an important point. Even if both groups agree that it was intentional, this does not make it a crime. After all, a number of intentional homicides are excused in the present. The range of excusable homicides in the past was greater. And, indeed, the distinction between intentional and non-intentional homicide had to be constructed. The relevance of this doesn't relate to the body count, but to how the body count was understood, which is significant. This is a point that Pinker repeatedly ignores: violence could have a positive valence or, at least, be accepted as unescapable.
 	
-	Citing Eisner, "Long-Term Historical Trends in Violent Crime," Crime & Justice 30 (2003): 83-142.
+Citing Eisner, "Long-Term Historical Trends in Violent Crime," Crime & Justice 30 (2003): 83-142.
 	
 63:  "While Europe was becoming less murderous overall, certain patterns in homicide remained constant. Men were responsible for about 92 percent of the killings (other than infanticide), and they were most likely to kill when they were in their twenties. Untile the 1960s uptick, cities were generally safer than the countryside. But other patterns changed. In the earlier centuries the upper and lower social classes engaged in homicide at comparable rates. But as the homicide rate fell, it dropped far more precipitously among the upper classes than among the lower ones [...]"
 
@@ -205,7 +205,7 @@ Pinker claims that Elias gives two exogenous factors.
 
 83:  "The main reason that violence correlates with low socioeconomic status today is that the elites and the middle class pursue justice with the legal system while the lower classes resort to what scholars of violence call 'self-help.'"
 
-	Citing/discussing Donald Black, "Crime as Social Control" where in many cases crime is vengeance/justice.
+Citing/discussing Donald Black, "Crime as Social Control" where in many cases crime is vengeance/justice.
 	
 83:  "Most homicides, Black notes, are really instances of capital punishment, with a private citizen as the judge, jury, and executioner."
 
@@ -261,7 +261,7 @@ Pinker claims that Elias gives two exogenous factors.
 
 111:  "Together with self-control and societal connectedness, a third ideal came under attack: marriage and family life, which had done much to domesticate male violence in the preceding decades."
 
-	Eliding here. The first point--now glossed as 'societal connectedness'--was originally expressed in terms in the decline of the moral authority of the elites due to, among other things, growing solidarity among youth. The issue isn't the 'ideal' of 'societal connectedness' coming into disrepute, but rather a horizontal rather than vertical version of 'connectedness.'
+Eliding here. The first point--now glossed as 'societal connectedness'--was originally expressed in terms in the decline of the moral authority of the elites due to, among other things, growing solidarity among youth. The issue isn't the 'ideal' of 'societal connectedness' coming into disrepute, but rather a horizontal rather than vertical version of 'connectedness.'
 	
 115:  "Even more calamitous than the return of hoodlums to the street was the mutual disengagement between law enforcement and communities, and the resulting deterioration of neighborhood life."
 
