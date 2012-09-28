@@ -160,3 +160,83 @@ Chapter 2: The Pacification Process
 	
 58:  "When it came to violence, then, the first Leviathans solved one problem but created another. People were less likely to become victims of homicide or casualties in war, but they were now under the thumbs of tyrants, clerics, and kleptocrats. This gives us the more sinister sense of the word *pacification*: not just the bringing about of peace but the imposition of absolute control by a coercive government. Solving this second problem would have to wait another few millennia, and in much of the world it remains unsolved to this day."
 
+Chapter 3: The Civilizing Process
+---
+
+62:  "Homicide is the crime of choice for measures of violence because regardless of how the people of a distant culture conceptualize crime, a dead body is hard to define away, and it always arouses curiosity about who or what produced it. Records of homicide are therefore a more reliable index of violence than records of robbery, rape, or assault, and they are usually (though not always) correlate with them."
+
+62:  "Eisner cites studies showing that when people today are presented with the circumstances of a centuries-old murder and asked whether they think it was intentional, they usually come to the same conclusion as did the people at the time."
+
+	Assuming Eisner is correct, the relevance isn't entirely clear and this is an important point. Even if both groups agree that it was intentional, this does not make it a crime. After all, a number of intentional homicides are excused in the present. The range of excusable homicides in the past was greater. And, indeed, the distinction between intentional and non-intentional homicide had to be constructed. The relevance of this doesn't relate to the body count, but to how the body count was understood, which is significant. This is a point that Pinker repeatedly ignores: violence could have a positive valence or, at least, be accepted as unescapable.
+	
+	Citing Eisner, "Long-Term Historical Trends in Violent Crime," Crime & Justice 30 (2003): 83-142.
+	
+63:  "While Europe was becoming less murderous overall, certain patterns in homicide remained constant. Men were responsible for about 92 percent of the killings (other than infanticide), and they were most likely to kill when they were in their twenties. Untile the 1960s uptick, cities were generally safer than the countryside. But other patterns changed. In the earlier centuries the upper and lower social classes engaged in homicide at comparable rates. But as the homicide rate fell, it dropped far more precipitously among the upper classes than among the lower ones [...]"
+
+64:  "As Europe became more urban, cosmopolitan, commercial, industrialized, and secular, it got safer and safer."
+
+67:  Elias: "the little people, too--the hatters, the tailors, the shepherds--were all quick to draw their knives."
+
+71:  "The only explicit rationales stated in the etiquette books are to avoid acting like a peasant or an animal and to avoid offending others."
+
+72:  "He [Elias] proposed that over a span of several centuries, beginning in the 11th or 12th and maturing in the 17th and 18th, Europeans increasingly inhibited their impulses, anticipated the long-term consequences of their actions, and took other people's thoughts and feelings into consideration."
+
+73-4:  "At this point in the story, the theory of the Civilizing Process is incomplete, because it appeals to a process that is endogenous to the phenomenon it is trying to explain. A decline in violent behavior, it says, coincided with a decline in impulsiveness, honor, sexual license, incivility, and boorishness at the dinner table. But this just entangles us in a web of psychological processes. It hardly counts as an explanation to say that people behaved less violently because they learned to inhibit their violent impulses. Nor can we feel confident that people's impulsiveness changed first and that a reduction in violence was the result, rather than the other way around."
+
+Pinker claims that Elias gives two exogenous factors.
+
+74:  "The first was the consolidation of a genuine Leviathan after centuries of anarchy in Europe's feudal patchwork of baronies and fiefs. Centralized monarchies gained in strength, brought the warring knights under their control, and extended their tentacles into the outer reaches of their kingdoms."
+
+75:  "The second exogenous change during the later Middle Ages was an economic revolution. The economic base of the feudal system was land and the peasants who worked it. As real estate agents like to say, land is the one thing they can't make more of. In an economy based on land, if someone wants to improve his standard of living, or for that matter maintain it during a Malthusian population expansion, his primary option is to conquer the neighboring lot. In the language of game theory, competition for land is zero-sum: one player's gain is another player's loss."
+
+76-7:  "Positive-sum games also change the incentives for violence. If you're trading favors or surpluses with someone, your trading partner suddenly becomes more valuable to you alive than dead. You have an incentive, moreover, to anticipate what he wants, the better to supply it to him in exchange for what you want. Though many intellectuals, following in the footsteps of Saints Augustine and Jerome, hold businesspeople in contempt for their selfishness and greed, in fact a free market puts a premium on empathy. A good businessperson has to keep the customers satisfied or a competitor will woo them away, and the more customers he attracts, the richer he will be."
+
+77:  "And this brings us to the second exogenous change. Elias noted that in the late Middle Ages people began to unmire themselves from technological and economic stagnation. Money increasingly replaced barter, aided by the larger national territories in which a currency could be recognized. The building of roads, neglected since Roman times, resumed, allowing the transport of goods to the hinterlands of the country and not just along its coasts and navigable rivers. Horse transport became more efficient with the use of horseshoes that protected hooves from paving stones and yokes that didn't choke the poor horse when it pulled a heavy load. Wheeled carts, compasses, clocks, spinning wheels, treadle looms, windmills, and water mills were also perfected in the later Middle Ages. And the specialized expertise needed to implement these technologies was cultivated in an expanding stratum of craftsmen. The advances encouraged the division of labor, increased surpluses, and lubricated the machinery of exchange. Life presented people with more positive-sum games and reduced the attractiveness of zero-sum plunder. To take advantage of the opportunities, people had to plan for the future, control their impulses, take other people's perspectives, and exercise the other social and cognitive skills needed to proses in social networks."
+
+77:  "The positive-sum cooperation of commerce flourishes best inside a big tent presided over by a Leviathan."
+
+79:  "the decline of violence in Europe and the rise of centralized states did not always proceed in lockstep."
+
+81:  "Two of these rule-proving exceptions are zones that the Civilizing Process never fully penetrated: the lower strata of the socioeconomic scale, and the inaccessible or inhospitable territories of the globe. And two are zones in which the Civilizing Process went into reverse: the developing world, and the 1960s."
+
+82:  "The European decline of violence was spearheaded by a decline in *elite* violence. Today statistics from every Western country show that the overwhelming majority of homicides and violent crimes are committed by people in the lowest socioeconomic classes."
+
+83:  "The main reason that violence correlates with low socioeconomic status today is that the elites and the middle class pursue justice with the legal system while the lower classes resort to what scholars of violence call 'self-help.'"
+
+	Citing/discussing Donald Black, "Crime as Social Control" where in many cases crime is vengeance/justice.
+	
+83:  "Most homicides, Black notes, are really instances of capital punishment, with a private citizen as the judge, jury, and executioner."
+
+84:  "These observations overturn many dogmas about violence. One is that violence is caused by a deficit of morality and justice. On the contrary, violence is often caused by a surfeit of morality and justice, at least as they are conceived in the minds of the perpetrators. Another dogma, cherished among psychologists and public health researchers, is that violence is kind of a disease. But this public health theory of violence flouts the basic definition of a disease, namely a malfunction that causes suffering to the individual. Most violent people insist there is nothing wrong with them; it's the victim and the bystanders who think there's a problem. A third dubious belief about violence is that lower-class people engage in it because they are financially needy (for example, stealing food to feed their children) or because they are expressing rage against society. The violence of a lower-class man may indeed express rage, but it is aimed not at society but at the asshole who scraped his car and dissed him in front of a crowd."
+
+85:  "The historical Civilizing Process, in other words, did not eliminate violence, but it did relegate it to the socioeconomic margins."
+
+85:  "The Civilizing Process spread not only downward along the socioeconomic scale but outward across the geographical scale, from a Western European epicenter."
+
+87:  "The good news is that the media national homicide rate among the world's countries in this dataset is 6 per 100,000 per year. The overall homicide rate for the entire world, ignoring the division into countries, was estimated by the WHO in 2000 as 8.8 per 100,000 per year. Both estimates compare favourably to the triple-digit values for pre-state societies and the double-digit values for medieval Europe."
+
+89:  "the relationship between crime and democratization is an inverted U. Established democracies are relatively safe places, as are established autocracies, but emerging democracies and semi-democracies (also called anocracies) are often plagued by violent crime and vulnerable to civil war, which sometimes shade into each other."
+
+90:  "Every human society is faced with a conflict of interest between the younger men, who seek dominance (and ultimately mating opportunities) for themselves, and the older men, who seek to minimize internecine damage within their extended families and clans."
+
+91:  "In short, the governance vacuum left by instant decolonization put the Papuans through a decivilizing process that left them [the Enga] with neither traditional norms nor modern third-party enforcement. Similar degenerations have occurred in other former colonies in the developing world, forming eddies in the global flow toward lower rates of homicide."
+
+92:  "It's not just that America is gun-happy. Even if you subtract all the killings with firearms and count only the ones with rope, knives, lead pipes, wrenches, candlesticks, and so on, Americans commit murders at a higher rate than Europeans."
+
+94:  "These jurisdictions [Louisiana, DC] are outliers mainly because they have a high proportion of African Americans. The current black-white difference in homicide rates within the United States is stark. Between 1976 and 2005 the average homicide rate for white Americans was 4.8, while the average rate for black Americans was 36.9."
+
+94:  "Southern whites are more violent than northern whites, and southern blacks are more violent than northern blacks."
+
+95-6:  "The Dutch colony of New Netherland, with its settlements from Connecticut to Delaware, saw a sharp decline in its early decades, from 68 to 15 per 100,000. But when the data resume in the 19th century, we start to see the United States diverging from the two mother countries. Though the more rural and ethnically homogeneous parts of New England (Vermont and New Hampshire) continue to hover in the peaceful basement beneath 1 in 100,000, the city of Boston became more violent in the middle of the 19th century, overlapping cities in former New Netherland such as New York and Philadelphia."
+
+99:  "In Europe, first the state disarmed the people and claimed a monopoly on violence, then the people took over the the apparatus of the state. In America, the people took over the state before it had forced them to lay down their arms--which, as the Second Amendment famously affirms, they reserve the right to keep and bear. In other words Americans, and especially Americans in the South and West, never fully signed on to a social contract that would vest the government with a monopoly on the legitimate use of force. In much of American history, legitimate force was also wielded by posses, vigilantes, lynch mobs, company police, detective agencies, and Pinkertons, and even more often kept as a prerogative of the individual."
+
+99-100:  "Self-help justice depends on the credibility of one's prowess and resolve, and to this day the American South is marked by an obsession with credible deterrence, otherwise known as a culture of honor. The essence of a culture of honor is that it does not sanction predatory or instrumental violence, but only retaliation after an insult or other mistreatment. [...] In surveys, southerners do not endorse the use of violence in the abstract, but only to protect home and family. The laws of the southern states sanction this morality. They give a person wide latitude to kill in defense of self or property, put fewer restrictions on gun purchases, allow corporal punishment ('paddling') in schools, and specify the death penalty for murder, which their judicial systems are happy to carry out. Southern men and women are more likely to serve in the military, to study at military academies, and to take hawkish positions on foreign policy."
+
+102:  "The immediate trigger for self-help justice, then, is anarchy, not herding itself."
+
+104-5:  "The one great universal in the study of violence is that most of it is committed by fifteen-to-thirty-year-old-men. Not only are males the more competitive sex in most mammalian species, but with *Homo sapiens* a man's position in the pecking order is secured by reputation, an investment with a lifelong payout that must be started early in adulthood."
+
+105:  "The West was eventually tamed not just by flinty-eyed marshals and hanging judges but by an influx of women."
+
+106:  "The North is an extension of Europe and continued the court- and commerce-driven Civilizing Process that had been gathering momentum since the Middle Ages. The South and West preserved the culture of honor that sprang up in the anarchic parts of the growing country, balanced by their own civilizing forces of churches, families, and temperance."
