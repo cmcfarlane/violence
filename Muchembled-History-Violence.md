@@ -6,11 +6,11 @@ Introduction
 
 1:  "From the thirteenth to the twenty-first century, physical violence and brutality in human relationships were on a downward trajectory all over Western Europe. This is shown by the curve of homicides recorded in the judicial archives. The very high level of seven centuries ago first fell, by roughly half, in the years 1600--50. This was followed by a spectacular fall over the next three centuries, up to the 1960s, in which the number of cases dropped to a tenth of what it had been; subsequent decades have seen a slight but clear increase. Yet, throughout this period, age and sex patterns in the case of murder have remained remarkably constant, which raises many questions."
 
-	The rate of homicide by females has remain constant since the end of the Middle Ages: roughly 10%.
+The rate of homicide by females has remain constant since the end of the Middle Ages: roughly 10%.
 
-	Most homicides are committed by males twenty to thirty years old.
+Most homicides are committed by males twenty to thirty years old.
 
-	Within Europe, there is a clear separation between the former USSR and Western Europe. In Russia, the murder rate was 28.4 per 100,000 in 2000; it comparison, it ranged between 0.7 and 1.9 in the European Community.
+Within Europe, there is a clear separation between the former USSR and Western Europe. In Russia, the murder rate was 28.4 per 100,000 in 2000; it comparison, it ranged between 0.7 and 1.9 in the European Community.
 
 1:  Europe has managed to develop an effective system "for the management of male, and especially juvenile, violence."
 
@@ -36,7 +36,7 @@ Introduction
 
 3:  "This change was not painless, except for many townspeople, who were much less hostile to being 'disarmed'. This was because the 'urban peace' had already, by the end of the late Middle Ages, lessened the violence of the inhabitants of towns more effectively than elsewhere." e.g., police
 
-	Notable groups opposing this transformation were (1) the aristocrats, who developed a culture of honour and duelling, which was reoriented towards the military in defence of, first, the prince and then, second, the nation and (2) the peasants, constituting the vast majority of the European population until the nineteenth century, fought to preserve its manly traditions, including through rather unsuccessful and violent armed revolts. 
+Notable groups opposing this transformation were (1) the aristocrats, who developed a culture of honour and duelling, which was reoriented towards the military in defence of, first, the prince and then, second, the nation and (2) the peasants, constituting the vast majority of the European population until the nineteenth century, fought to preserve its manly traditions, including through rather unsuccessful and violent armed revolts. 
 
 3:  "More recently, the sudden emergence at the end of the twentieth century of the problems posed by the young rioters of the inner cities gives the impression that there has been a return of the repressed."
 
@@ -53,7 +53,7 @@ Chapter 1: What is Violence?
 
 7:  "It has slowly and painfully exorcized the problem, and now regards human life as sacred and homicide as a major taboo."
 
-	Note the religious language surrounding human bodies, lives and violence.
+Note the religious language surrounding human bodies, lives and violence.
 
 8:  "A true 'culture of war' has presided from its origins over the development of the West, even intensifying with the Great Discoveries."
 
@@ -87,7 +87,7 @@ Chapter 1: What is Violence?
 
 16:  "By brandishing the threat of the death penalty for those who dared to kill, they strengthened their control over their subjects. This had not been the case in the European societies of the immediately preceding centuries. Then less strictly controlled by the state, they had allowed more latitude to the local and regarded the death of a human being with a degree of indifference, in the context of a culture in which male violence was the norm."
 
-	Muchembled notes, "In these circumstances, aggression had a positive value." Aggression and violence have a valence and that valence is culturally determined.
+Muchembled notes, "In these circumstances, aggression had a positive value." Aggression and violence have a valence and that valence is culturally determined.
 	
 16-7:  "Male murderers were treated even more leniently if they were young, because the adults of their locality tolerated displays of violence in the belief that youth must have its fling. It is because of this that it was young men aged between twenty and twenty-nine who were most likely to commit murder. During their long wait for marriage, both in the countryside and in the towns, young men in this age group adopted a culture of bachelor gangs. These were based on competition between peers to enhance their value in the eyes of the girls and to compensate for the frustrations associated with this uncomfortable state, between childhood and full adulthood. Their principal concern was to extol a manliness which made them exist in the eyes of others. They carried weapons, in particular knives or swords, and used them freely in fights intended to demonstrate their valour, inflicting or receiving wounds which infection and the inadequacies of contemporary medicine often rendered fatal. Young noblemen, trained for combat and imbued with an equally manly warrior ethic, were not fundamentally different in this regard from the peasantry, before their isolation after the invention of the rules of the aristocratic duel in the sixteenth century."
 
