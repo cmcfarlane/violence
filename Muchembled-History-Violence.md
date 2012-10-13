@@ -231,4 +231,77 @@ Chapter 3: The Youth Festivals of Violence (Thirteenth to Seventeenth Centuries)
 
 51:  "To learn how to fight with a knife was a duty, an injury inflicted or received was an honour and a homicide that resulted was a feat of arms, even if it was condemned by the law and the church."
 
+52:  "Though varying according to country, region and parish, these festive interludes, Sundays included, added up to well over a hundred a year."
+
+54:  "The young embodied the hopes of the parish, its chances of survival in a hostile world deeply scarred by famine, war and epidemics. Every European village was an entity with a stable core but shifting contours, and much energy was put into preventing external dangers from threatening its collective existence. Economic and matrimonial exchanges with othe parishes were closely supervised to ensure that they did not have a worringly weakening effect. The dominant model of marriage, therefore, was fundamentally endogamous and homogenous, as more than three-quarters of the rural population married someone from the same place and the same social rank. Villagers were trained from a tender age to defend their territory and their rights against any encroachment."
+
+55:  "As their own parents sent them out to work during the day and encouraged them to spend as little time as possible within the house, world of the very young and site of adult sexuality, they were forced to invent their own sociality."
+
+55:  "Emerging in the twelfth century, perhaps even earlier, they developed until the eighteenth century, before disappearing at various dates in various regions under pressure from the moralists who denounced their excesses. They were a response to the increasingly late age of marriage in Western Europe, regarded by demographers as the principal mechanism for population control in the absence of widespread and effective contraception, as it reduces the number of children conceived per couple. In France, the age of marriage for men was between twenty-eight and thirty on the eve of the Revolution, whereas it had been more like twenty-three at the end of the Middle Ages. Thus pubescent boys were forced to undergo a very long period of waiting before they could accede to full adulthood and a legitimate sexual life."
+
+55:  "Historians no longer believe that the mass of young unmarried men opted for continence. Illegitimate births may have been less than 1 per cent in French villages in the seventeenth century, but plenty of outlets existed. These ranged from masturbation [...] which was sometimes heterosexual, as in seventeenth-century England, to furtive embraces with married women and widows, by way of prostitution, rape--then not really considered a crime--and even beastiality."
+
+56:  "The youth groups, kingdoms of manliness, encompassed all the boys of the parish, but split into smaller groups according to the occasion and to affinities, perhaps sometimes also in line with social status. In the typical village, with a population of a few hundred, the boys might form a single band, a dozen or more strong. In big parishes, and especially in the towns, there might be many groups, organized by district. A 'king', a prince or an 'abbot', that is, a leader, was appointed each year, at a major festival, usually after a trial of strength or skill from which he had emerged the victor. A new member, who could hardly refuse to join on reaching puberty, paid his dues in the form of money or drink. He began by learning the traditions, acting as lookout for his elders, carrying their cloaks or weapons, undergoing initiation rites which marked the abandonment of childhood for the state of young man. His fellows might include some married men, especially in the first year of their conjugal life when they were still without children, sign of full transition to the adult state."
+
+56:  "These events had a positive value for the competitors, clearly delineating their exclusive rights to a territory or to the matrimonial opportunities existing within it."
+
+57:  "Particular targets were elderly widowers who had married a young girl, thereby depriving the young men of an opportunity in what was already a very tight marriage market."
+
+57:  "The kingdom of youth were not simply assemblies of frustrated young men who found some compensation by engaging in acts of violence and various excesses. This harsh view of them, held by moralists eager to see them disappear, fails to appreciate their deep rootedness in the society which produced them."
+
+58:  "Forged in childhood, brought to a peak within the restrictive context of the abbeys of youth, their culture of male power had only a single objective: to prove that they were equipped to replace fathers and impregnate women, even though access to the latter was officially forbidden before marriage."
+
+58:  "A formidable xenophobia was practised against strangers, vagrants and soldiers, including those of the prince, because they pillaged and raped without scruple. The same defence mechanism was deployed against near neighbours, though more nuanced due to the need to maintain relations with these 'false strangers', especially if they lived within a radius of four or five kilometres."
+
+59:  "Beyond ten, and even more twenty, kilometres, the frontiers of a little *pays* with common cohesive features, lay a world which provoked not so much aggression as fear in those who ventured into it."
+
+59:  "A quarrel about a child, an animal or a right risked degenerating into a petty war, gradually involving two factions or two neighbouring communities intent on fighting with whatever weapon lay to hand."
+
+59:  "The culture of violence was not simply a law of force."
+
+59:  "Such precepts regulated the distribution of space. The house was regarded as an inviolable sanctuary, especially at night. An attack on it merited unanimous disapproval and was enough to excuse a homicide committed in its defense."
+
+60:  "It was unacceptable to enter a house without permission, or even stray within its safety zone, sometimes marked by a hedge, more often invisibile, though still known to everyone."
+
+60:  "All other space was common to varying degrees, subject to traditions which had the force of law."
+
+60:  "The fields, the paths and the woods were not neutral zones, even if everybody frequented them and some spent time there. Only the unmarried men dared to go there in a group at night."
+
+60:  "The busiest places, such as the village square, the church, the cemetary and the tavern, were also those where violence was most likely to break out, and from which it was hardest to flee in the face of the hostile intentions of an enemy met by chance."
+
+61:  "Violence was employed here [public places], as in the village squares, to make the act clearly visible and highly memorable, so as to enhance the honour of the perpetrator and his family, even if it was a simple peasant farmer."
+
+63:  "The tavern, principal site of village sociability, was a microcosm ruled by strict norms. Its 'politeness' was not that of the 'civilizing process' described by Norbert Elias. The codes in operation there may seem crude, but they were effective enough to allow individuals who were armed, extremely touchy about their honour and increasingly quarrelsome as the drink flowed to spend long hours, even whole days, in each other's company. Convention demanded that a new arrival greet the company, wait till he was invited before sitting down with anyone, and leave his most formidable weapons propped up against a wall; they were in any case difficult to manage within such a restricted and often overcrowded space. Yet people were rarely separated from the knife they used to cut their bread, which was one of the last resorts, with heavy pots, in case of attack. For reasons of security, metal pots often had a glass base and bread knives were often put down in front of their owners, where they could quickly be seized if the need arose. The fact that space had to be shared did not mean that people crowded each other. Everyone had to keep to his own place, that is, the space assigned to an individual or a group, separated from that of others by invisible but very real barriers. Entering or leaving the tavern, even to satisfy a call of nature, had its risks. If you passed too close to someone it was important to signify the absence of hostility by a word or gesture, so that they did not feel threatened. Leaving the inn was particularly dangerous, as an enemy might seize the occasion to bar the way, lie in wait outside or claim he had been jostled or challenged. Once over the threshold, the tacit guarantees of non-aggression associated with the collective gaze, which imposed peace and accepted the validity of a conflict only if certain conventions had been observed, no longer applied."
+
+63:  "The ritual prolonged that of the laying down of weapons and framed two uneasy moments, because a seated man was in a weak position in case of sudden assault by a person on his feet."
+
+64:  "To steal a personal item, especially a weapon, or a hat or a feather, was guaranteed to enrage the victim. The more direct challenges which began in the form of a joke were hard to take if the impugned the victim's honour. To pull someone's beard was an intolerable insult, because this hirsute adornment was evidence of its owner's virility. Worse still were the jokers who urinated from an upper room on to a table below, or into someone's hat, or onto their feet, well aware of how deeply offensive their act was. In marking their territory in this way and in announcing that their masculinity was superior to that of their victim, they initiated a trial of strength which quickly lost its playful dimension. It was rare, however, to utter in public the supreme insults, those which concerned the purity of the women of the enemy's family, above all his mother. As in the French banlieues of the twenty-first century, to tell a young man to go screw his mother left him with no alternative other than a violent response to avenge the insult."
+
+65:  "they all ['rough music,' etc] evoke the fundamental right to supervise morals devolved on young males in European peasant societies until the Reformation and Counter-Reformation imposed the new social discipline. This custom reveals the function assigned them in exchange for their acceptance of the social norms and constraints: to act as the conscience of the community and periodically to rebind the ties between it and the nourishing earth."
+
+66:  "All over Europe, the young men of two villages, or, in a town, those of a parish, competed with the married men in sporting contests of great brutality focused on a ball that was closely contested for hours on end over the whole of a territory."
+
+67:  "These events, hymns to manly strength, culminated in the fights between animals and the games which culminated in their death."
+
+73:  "No sector of the population was immune to violence, though some came out of it better than others, suggesting a familiarity with weapons and fighters."
+
+74:  "The murderous brutality of the nobility was at its height in the fifteenth century, when it accuonted for more than a third of cases, but it subsequently diminished, to settle at about 4 per cent in the middle of the seventeenth century. By this time, the pardons were almost all for gentlemen of minor importance, often soldiers. Everything indicates that the aristocracy withdrew on a massive scale from ordinary socialibility in favour of cultivating their pride and redirecting their violence into the fighthing of codified duels."
+
+75:  "The ritual battles among the young men of Artois were not aimed at doing their competitors to death. Their purpose was rathe to demonstrate the superiority of the victor. This explains why they usually involved the knife, that penis substitute. Only a few men, victims included, did not ostentatiously carry this extension of the self."
+
+77:  "The intention was not usually to kill. The combatants were well aware that to hit someone in the belly or the chest with a thrust with a sharp implement or a shot from a gun, or to strike someone between the shoulders, an event rarely mentioned because it implied an unacceptable treachery, had much more serious consequences than a blow to the head."
+
+77:  "Young bachelors who fell out with someone usually wantetd to hit him on the head, not send him to his grave, in which case they would be forced to go into exile to escape justice; they wanted to 'give him one' (a wound) and then boast that they had got the better of him."
+
+77:  "The head was for them the symbolic centre of manliness. It was the same with the nobles, who fought wearing elaborate and feathered helmets intended to terrorize their adversary. Like the shameful member, as it was then called, the head out in normal circumstances to be kept hidden, while expressing various ways the unbending power of its owner."
+
+77-8:  "It was an act of bravado to go out proudly sporting a feather in one's cap as a symbol of manly strength and challenge to any possible rivals."
+
+80:  "The knife fight and the sword fight were part of the symbolic language of youth, intended to demonstrate the manliness of the protagonists. Despite accidents, exceptions and madness, it was not, in general, an art of killing. It was aimed rather at humiliating, by hitting the most highly valued part of the human being, the head."
+
+81:  "It seems that the lust to kill became more common at this period, a sign of the crisis being experienced by the culture of youth violence. The authorities examined the circumstances and the descriptions of the injuries with a new attention, because the criminalization of homicide happening all over Europe in the 1620s meant that they reacted with greater severity. The defence of honour and vengeance, which had motivated more than half the aggressors in Artois in the fifteenth century, slowly became less common, settling at a third of the total in the period 1630-60. To be more precise, the high level of princely leniency in such matters was reduced in this period in the Spanish Low Countries, as the law, modernized by royal edits of 1570, created an increasingly negative image of homicide within society. At the same time, rural traditions were being eroded by the decline of festive activities, under pressure from a restrictive new morality and a legislation directed against profane entertainments, dances, the carrying of weapons, drunkeness and all the liberties allowed to young men, in particular that of walking around in armed groups at night and on holidays. A new world was slowly emerging in the countryside, that of self-control and the 'civilizing process'."
+
+Chapter 4: The Urban Peace at the End of the Middle Ages
+---
+
 
