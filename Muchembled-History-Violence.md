@@ -573,3 +573,13 @@ Chapter 7: Violence Tamed (1650-1960)
 
 Chapter 8: Mortal Thrills and Crime Fiction (Sixteenth to Twentieth Centuries)
 ---
+
+243:  "The colonization of the Western imaginary by cruel fantasies is surely more likely to have been a sign that the taboo on murderous brutality had been accepted, leaving space only for evocations of what had been forbidden. Transgression had become impossible, without being taken for a brute beast or insane."
+
+244:  "Fictional violence, omnipresent in magazines, detective stories and many other media, served two opposing ends: it pacified the manners of pubescent boys, by offering them the outlet of mortal thrills without getting involved in action, but it also prepared them for this eventuality, as the terrible slaughter of two world wars testifies. The symbolic education in these two contradictory roles is what gives the crime novel its significance."
+
+245:  "Rosset and Camus offered 'stories of our times', based on violence, love and ambition. They were often sandwiched between a moralizing introduction and conclusion and they taught their readers how to behave before the Law, divine and human, by providing them with examples of transgression followed by an ineluctable punishment."
+
+246:  "This is a literature that insists on the terrifying divine vengeance which awaits transgressors. It seeks to persuade its readers to accept a pitiless punitive morality, after luring them into exploring an imaginary prohibited world."
+
+252:  "The gallows was not there solely to punish. It was also a powerful education tool for the use of all who watched a human life end tragically. For the officials responsible for organizing this solemn moment, the most difficult part was getting the principle character to cooperate, so that they did not disrupt the desire consensus between justice and the watching crowd."
