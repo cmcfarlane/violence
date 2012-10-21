@@ -599,3 +599,13 @@ Chapter 8: Mortal Thrills and Crime Fiction (Sixteenth to Twentieth Centuries)
 261-2:  "The decline of the genre is linked to a decline in its symbolic usefulness as a product of a consensus between the authorities and the audience for executions. The myth of the repentant scoundrel, of the sinner become saint at the moment of his death, was no longer as effective as it had once been in strengthening social cohesion by its demonstration of the defeat of the devil who inspired the wrongdoers. And the crowds, gradually influenced by the spirit of the Enlightenment, came increasingly to suspect that the whole pious production was a fraud."
 
 262:  "The principal role of the fiction based on the figure of the criminal was to lessen collective anguish and calm the fear of murder by explaining it, not rationally but according to the prevailing beliefs of the age."
+
+264:  "The large European cities of the nineteenth century were tormented by fear of the 'dangerous classes', a consequence of industrialization. The main purpose of the genre was to invent a hero who operated outside the system of established authority, and who was revealed as alone capable of solving the most incomprehensible mysteries, when they proved beyond the police. It was as if an idealized Cartouche had become the bastion of respectable people by hunting down the gangsters who roamed the city at night, armed to the teeth!"
+
+267:  "The widespread popularity of the terrifying saga of Fantomas suggests that the public of the pre-war period had wearied of the traditional happy endings and no longer believed in the redemption of criminals. They preferred the open evocation of cruelty, realistically portrayed, with no hope that the culprit would be saved."
+
+268:  "These charming assassins were hybrid figures, who incarnated the juvenile murderous instinct, but toned down and closely controlled by an elevated conception of their chivalric role as defenders of the opporessed. They subsequently entered mass culture by means of the strip cartoon, cinema and television. In fact, they constitute an extraordinary symbolic successes, reconciling very different social classes and providing a reassuring image of youth, because these young men killed only out of necessity, never out of hatred or self-interest."
+
+271:  "The principal function of detective fiction, the *fait divers* and 'popular' literature was to promote greater social integration."
+
+272:  "The monstrous *fait divers* made the reader uneasy, but the murder investigation in the hands of a competent sleuth brought reassurance."
