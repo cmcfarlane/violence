@@ -444,3 +444,132 @@ Chapter 6: Cain and Medea: Homicide and the Construction of Sexed Genders (1500-
 Chapter 6: The Noble Duel and Popular Revolt: The Metamorphorses of Violence
 ---
 
+161:  "It [the duel] was invented in the sixteenth century and it reached its apogee in France under the first two Bourbon kings, just when the great peasant revolts were at their height."
+
+162:  In the context of constant war, revolt, and revolution, the civilizing process nonetheless developed, as did state formation. "Of these, the most obvious is the gestation of the modern state, which needed to control the aggression of its subjects in order to channel that of its armies towards the fundamental sphere of lawful clashes with its enemies. The state took two antagonistic forms, whose mechanisms constantly evolved and improved in confrontation. The centralized model, as in France, was based on the upward aspirations of its most dynamic elements. According to the classic analyses, it harnessed some of the extreme violence of the aristocrats and placed it at the service of the sovereign on the battlefield. The other archetype is that of the city-state, whose power was based on a flourishing economy: Venice at the end of the Middle Ages, Antwerp in the mid sixteenth century, Genoa a few decades later, Amsterdam in the seventeenth century. However, the city-states had to adapt to the growing threats coming from the most powerful monarchies, tempted by their wealth."
+
+162:  "England, protected by its isolation, was an exception. It moved slowly from the first to the second model, rejecting the absolutism of the Stuarts after tolerating that of the Tudors, to become a sort of vast economic suburb of London. Dominated by a capital expanding rapidly after the industrial revolution of the eighteenth century, it kept up the semblance of a monarchy. After the Glorious Revolution of 1688, it was ruled by an elite with urban values which distruted excessive centralization and favoured the separation of powers. This is shown by a deep crisis of the aristocracy, whose essential values came increasingly to be based on money and the entrpreneurial spirit rather than on birth."
+
+163:  "The only legitimate culture of violence became that of the soldiers and officers acting on the orders of the state. Civilians had to accept the loss of their weapons and had to entrust their safety wholly to the law and those charged by the sovereign with the maintenance of order. It took generations, even centuries in some cases, for such principles to be accepted universally."
+
+163:  "The noble duel and the rural revolt were collective or individual adaptations to the new codes that were being imposed. In each case, the participants claimed an eminent right to a straight fight, even if it resulted in the death of the adversary."
+
+164:  "the villlagers showed no interest in anything remotely resembling class war. Indeed, they rejected the new distinction, previously virtually unknown, between those privileged by birth and themselves, that is, between warriors specializing in mortal combat and tillers of the soil, enjoined to abandon their weapons and their brutal practices. The society they wanted to preserve was based on a clear distinction between the three orders, clergy, nobility and third estate, certainly, but they refused to accept the introduction of impenetrable barriers in daily life. Backward-looking, when they were being urder to look to the future, they tried to make time stand still."
+
+165:  "Paradoxically, the proliferation of conflicts ultimately had the effect of disconnecting the culture of the professionals in violence from that of the ordinary people. Only soldiers were now considered to have the right to kill another human being, in the course of a 'just' war. Which, increasingly, they did. Medieval chilvalric practices, and the economy of blood practised by mercenaries seeking high ransoms for prisoners, were replaced by clashes that were increasingly often fatal, using very destructive weapons, cannons, rifles and pistols, before the arrival of the formidable sabres of the Napoleonic age."
+
+166:  "It [the duel] was premeditated murder, rarely prosecuted at a time when an increasing number of ordinary people were being executed for this very crime. Its supporters, like the duellists themselves, demanded the outrageous privilege of a continuation of the right to kill a human being without paying the price."
+
+169:  "[England] had already gone some way to eradicating violence by orienting it towards the spectacle of animal fights and codified bare-knuckle fighting, ancestor of boxing."
+
+170:  "The duel was a French passion. It acquired unrivalled prestige after the middle of the sixteenth century because it epitomized all the masuline virtues necessary to the conquest of Europe and the world. To fulfil the monarchical mission of bringing peace and Christianity to the people, it was necessary to have access to men of war who knew how to kill in order to conquer and to be killed in order to safeguard honour."
+
+171:  "The net result of these insoluble contradictions was to define the duel as an exceptional right which ought to be rare, no one but a warrior of blue blood being allowed to cut short a life without a properly constituted judicial decision."
+
+172:  "These immature individuals [noble duellists] attached little value to life, even their own. All that differentiated them from the commoners who sought royal pardons was the extreme murderous fury of the codified duel."
+
+173:  "For adults of their caste, the duel had at least the virtue of occupying idle young warriors and preventing them from thinking about turning their swords on their elders."
+
+173:  "The avowed causes of the challenges related to women, quarrels about money, lawsuits and rivalries aggravated by questions of precedence or membership of hostile factions."
+
+174:  "The duel was an elite military academy. It operated a ruthless sytem of selection, allowing only the most gifted in the art of killing to survive, which augured well for their ability to conquer in battle. Further, it gave the nobles a monopoly of carrying and wielding the sword, because the prohibitions emanating from the sovereigns were not applied to them."
+
+174:  "The symbolic castration of the commoners thus achieved by legislation did nothing to stop the survival of the traditions of armed juvenile confrontations."
+
+175:  "four out of five of their scars resulted from sword blows to the head, the face or the limbs, with those on the trunk or belly accounting for less than 6 per cent. [...] it was the last of these that were most often fatal. Military swordsmanship targeted the head in every sense of the word. It was not necessarily intended to kill, given the helmet. Further, a defeated prisoner might fetch a high ransom, especially if of high rank. The army was the main source of the technical education of the entire population."
+
+175-6:  "The rapier of the musketeers immortalized by Alexandre Dumas, longer, thinner and more fragile, could only be used to thrust, so as to pierce a body. War changed its nature after the abandonment of the heavy armour that was easily penetrated by a bullet. Plume fluttering in the wind, the noble calvaryman swooped down on the common pikemen, firing and killing, then valiantly used his sword against one of his peers. He needed a new kind of bravery, skill more than strength, all instilled into him by three indispensable masters: those of dancing, riding and fencing. They all called for the same qualities of finesse, skill, edurance and valour to form a new type of conquering aristocrat. Under a veneer of politeness, provided first by the manuals of civility and then by the etiquette of the court of Versailles, the nobleman had never been so highly motivated to behave with animal savagery in a duel or in war."
+
+176:  "The duel was a frenzied and savage hymn to death, sung by thousands of ambitious young men inspired by a 'race' prejudice which encouraged them to believe they were superior beings."
+
+176-7:  "A history purged of the passion for the duel leads to a disturbing conclusion. The 'civilizing process' described by Norbert Elias was no more than a facade. Cruelty was more deeply hidden under imperative rules of civility, but it also became more extreme and more drastic in the specialists in the art of killing.:
+
+177:  "By forcing nature and by producing a culture of death, the duel inaugurated a formidable shift towards barbarity assumed in the name of allegedly transcendent values."
+
+177:  "Although there were many offenders among the commoners, it was the aristocracy, therefore, who were chiefly responsible for a volume of bloody violence that was on a much larger scale than tends to be believed."
+
+178:  Victims of duels: "When age is recorded, which is in less than half the cases, it reveals the outh of the victims: almost half were under thirty, and only a negligible number over forty. The peak was between twenty-six and thirty, which has been the principal age gorup, in the case of both the accused and their victims, for homicides in the West from the thirteenth century to our own day. [...] The next largest group was of men between twenty and twenty-five, followed by an almost equal number aged between thirty and thirty-five. [...] Every twenty or thirty years, there was a collective eruption of deadly violence which involved mainly young men."
+
+181:  "To kill became a crime, without exception, whatever the circumstances. The taboo is today virtually absolute. The most violent male adolescents constitute only a tiny minority. The ritual initiatory violence of the gangs is directed primarily against objects, as in the torching of cars, and only rarely with ferocity against persons, even in the case of rivals from different districts."
+
+185:  "The immediate causes of the risings were essentially related to a deterioration in living conditions, following a great increase in fiscal pressure or terrible famines."
+
+185:  "These rebellions, which were doomed in the face of seasoned soldiers and ruthless authorities, were actually an expression of a strong attachment to traditions. The rebels objected to the fiscal 'novelties' and, more generally, to any sort of challenge to age-old customs. They were respectful of the social equilibriums, of the king and usually also of the aristocrats, whose help they sought to obtain justice. Their prime targets were the excesses to which they were subjected and they frequently chose tax officials as scapegoats. Conservative and backward-looking, they rejected the advance of the modern state, but without theorizing their rejection."
+
+186:  "However, the sociology of the rebellious crowds merits further study. They often included women, who were particularly active during the innumerable food riots but also present on many other occasions. No one has paid any real attention to the age of the men concerned, often for lack of information in the sources, but also for lack of interest in the subject."
+
+187:  "One of the essential but neglected aspects of the popular rebellions was their expression, through acts of violence conveying a symbolism of opposition, of a refusal to accept the disappearance of the customary privileges of the masculine kingdoms of youth."
+
+188:  "The great peasant revolts of the sixteenth and the first half of the seventeenth centuries were very different from the short, spontaneous 'emotions' when a small number of people from a rural parish or urban district came together to protest about a famine or for some reason or other. [...] It led them to break through not only the barriers of disobedience but also those of the deep xenophobia existing between neighbouring communities. These heterogeneous assemblies suffered moreover from a basic weakness, in that each group followed its own leaders and colours to go into battle. This made it much easier for the much more disciplined and better-armed regular soldiers to put these rebellions down."
+
+189:  "The absence of deliberate massacres and the selection of a small number of deeply detested targets was also characteristic of the customary rites of violence, based, as they had been, on brutality but without the systematic desire to kill. Only the hated tax-collectors were are risk of being done to death and then dragged through the streets like a trophy."
+
+189:  "The great peasant wars were a massive collective protest against new Puritan moral norms which were not fully enforced, but nevertheless seriously disruptive of everyday life; they were about more than the articulated demands, but, rather, symptoms of a profound malaise. They reveal a stubborn refusal to abandon the ancestral cultural traditions which extolled manly violence as a way of carving out a place for oneself in an unchanging world."
+
+190:  "Meanwhile, under the influence of both repressive and educative processes on the part of the authorities, a new model of masculine behaviour slowly emerged, which banished brutality and excess. In the attempt to make as many young bachelors as possible abandon the ritual confrontations, they added the power of persuassion and shame to coercion. They put great stress on the cruelty of their games, the animal sacrifices in particular. This marked the beginning of a gradual transition which culminated in the transformation of the carnivalesque entertainments into sport, such as boxing in eighteenth-century England or football today. Once they became spectators, the participants, including the unmarried young men, were more in control of the pleasure the continued to get from watching men and beasts suffer, and they could identify with the players while indulging in an exuberance that was now frowned on in ordinary life."
+
+Chapter 7: Violence Tamed (1650-1960)
+---
+
+197:  "The Western 'factory', which was engaged from 1650 to 1960 in a massive effort both to dominate the rest of the world and to respond on its own soil to the constant clashes between expansionist countries, came to draw an increasingly clear distinction between two forms of violence, legitimate and illegitimate. The former was essential to sustain the bellicose spirit necessary to the defence of the homeland and the domination of vast territories overseas; the latter came to be regarded by the authorities and by established people as disturbing, dangerous and disruptive of social harmony."
+
+197:  "The result, nevertheless, was the acceptance, all over the continent, of a dual model of masculine behaviour: on the one hand, the 'imperial' man, capable of brutality when it was necessary or legitimate; on the other, the peaceable citizen, the good husband and father, happily fulfilled in a serene household."
+
+199:  "Those who failed, or refused, to adapt to the demands of the civilizing process, of whom there were many, were potential targets for the courts. Their activities were judged not only according to the law, but also to the degree of danger they posed to the community. They had to demonstrate that they could at the very least keep their aggression in check if they wanted to escape prosecution."
+
+199:  "The adult world succeeded in significantly limiting youth violence by deflecting it into external conquest or legitimate war and by ruthlessly criminalizing the remainder. Combined with the disappearance of great military conflicts from European soil after 1945, the end of the colonial era has destroyed this balance, leaving the field clear for some decades now to a new increase in murder and physical violence."
+
+199:  "Between 1650 and 1960, violence was truly tamed in Europe. Not only were homicide rates in long-term decline, but before reading the absolute minima of the mid twentieth century, but the more ordinary use of force evolved towards less dangerous practices, both within the home and in public space. This, in the latter, bare-knuckle fighting, conducted according to precise rules, gradually replaced fighting with knives. The urban metropolis was the principal motor of change. Contrary to a widely held belief, the European town has done much to dampen down violence."
+
+200:  "Contrary to a common belief, urbanization and industrialization did not have the effect of aggravating violence, but rather of lessening it over the long term. In both countries, however, the curve of non-fatal assaults rose, in precise inverse correlation with that for murder. In other words, conflicts were more frequent but their consequences were less dramatic."
+
+201:  "In spite of the heavy costs incurred, charges were laid much more often in the case of property crimes, which emphasizes both the high degree of acceptance of the legitimacy of the law and the lukewarmness of the desire to take the pacification of human relations any further."
+
+202:  "In Western Europe in the nineteenth century, it was primarily a sector of the young of both sexes who seem to have been unable either to assimilate the norms or to integrate socially that lapsed into delinquency. For both sexes, the process usually began with theft."
+
+202:  "More generally, we are made to think about the displacement of violence from public space to the intimacy of the family. This novelty was of little interest to the authorities, as happy to see a reduction in visible conflictuality as they were relunctant to intervene in private life. The fact is, men of all ages preyed on little girls."
+
+204:  "Until 1885, the excessive affection of a father for a daughter of between thirteen and sixteen did not seem illegitimate. Indeed, some fathers seem to have believed that their marital rights extended to their children, all the more so as the rape of a spouse could not prosecuted until 1991."
+
+205:  "The large increase in the number of accusations of molesting or raping little girls is one of the many signs of the growth of judicial sanctions designed to soften the roughness of relations and extremes of behaviour within marriage. Regarded as he inviolable sanctuary of masculinity by the triumphant bourgeoisie, it was in practice the only place where aggression was legitimate, on the part of the master against the rest of the household."
+
+208:  "The fall in violence and the reduced use of the death penalty were closely connected. They were the two faces of a same process, that is, the increase in the value attached to human life, an original feature of Europe and of the universal values it has exported since the nineteenth century."
+
+209:  "The ultimate filter was criminal justice. It was aimed less at punishing the recalcitrant and those beyond redemption, or at rehabilitating them through confinement, in accord with certain normative discourses of the age, than at isolating them from the community and forcing them to undergo the training they had refused."
+
+209:  "youthful aggression, meanwhile, was deflected in countless ways, in particular into sport, which was believed to produce healthy minds in healthy bodies, colonial enterprises and, even more, the defence of the endangered fatherland."
+
+209:  "Nevertheless, in spite of a real reduction in the danger, clearly visible in the extremely low figures for homicide at the turn of the century, Europeans believed they were witnessing an increase in the ferocity of young men."
+
+210:  "Europe was the only continent on the planet to present these features in the third quarter of the twentieth century. Lethal violence was a residual phenomenon, mostly associated with organized crime."
+
+211:  "Might the collective price paid for the increasingly effective control of manly aggression have been the military carnage and the protest movements leading to violent confrontations?"
+
+211:  "Western societies have made the policing of the urban streets a priority."
+
+212:  "The principal change, which was slow to be effected, was the gradual expulsion from public space of the young, especially the young bachelors who had once fought in the streets at night and on holidays, to be put in schools and workshops, then factories and the army, through compulsory military service."
+
+215:  "The urban masculine youth culture moved away from murder, which society was increasingly less ready to condone, to theft. [...] In a world where the gulf between rich and poor was increasing, and where temptations were more numerous, it was also a form of protest by adolescents against the authorities and those who were comfortably established. It was the act not of the poorest or the vagrants without hope, but rather of the children of the people, who felt they were getting a raw deal and who were feeling the pressure of the stronger moral and social constraints imposed on them."
+
+216:  "London was on the way to becoming the largest city in Europe. Its population more than doubled during the century, to reach nearly 900,000 by 1800, and its per capita income fell sharply. Nevertheless, there was a big reduction in the number of murders committed in its streets."
+
+217:  "Violence did not disappear, of course, but it became more trivial from generation to generation. Surveillance by the police and fear of capital punishment are not enough to explain this. The principal motor for change is to be found in the everyday control of the gestures of each individual by the community."
+
+217-8:  "It seems to have resulted principally from changes in urban space, which had become overcrowded. In the last third of the century, in particular, many foreign observers commented with astonishment on the way Londoneers behaved in the streets: they avoided eye contact and they kept physical contact to a minimum by using their elbows rather than their hands to clear a passage; they did not look back if they bumped into someone, which might make it seem intentional. Reputation was not established in the street as it had been in the past, which defused some of what would otherwise have been inevitable clashes over a public challenge to someone's honour. The sites of sociability in which ordinary people congregated, the pub and the workplace, were probably regulated by even more imperative rules for the avoidance of conflicts, because they provided indispensable havens, set aside from the external tumult. To affect affable manners became a necessity so as not to appear a troublemaker. Respectability was not now associated with a fiercely proclaimed manliness so much as with a peacable demeanour that posed no threat to the order prevailing in this places."
+
+218:  "Male violence, once it had been tamed in public space, seems to have been given freer rein within the conjugal unit, and even more against women who were not protected by their good reputation or a husband."
+
+223:  "It therefore urged its most vigorous elements, including adults from the lower classes, to keep a watch on each other and to keep the young closely controlled, so as to maintain, in its preferred manner, a security which could not be achieved solely by the carrying of weapons and the death penalty. This is why political, moral, religious or economic explanations are not enough to explain the long Western march towards the goal of making homicide and physical or verbal violence a rarity."
+
+224:  "What is of most significance, however, is that Western Europe had collectively achieved the lowest level of inter-personal violence that any civilization has known, under the direct influence of its principal metropolises."
+
+224:  "And yet, in a recurrent fantasy, the big city is still seen as a dangerous and horribly violent place."
+
+238:  "If violence was no longer the preferred method of resolving disputes and tensions in the nineteenth-century village, it was because villages were increasingly integrating into the surrounding world. [...] This revolution was greatly accelerated by the massive intermixing of young men caused by two world wars, and it was constantly kept going by major integration mechanisms, both formal, like the school and the army, and informal, like the cult of novelty celebrated by the mass media and the growth of leisure."
+
+241:  "In a striking paradox, the beginning of the twentieth century saw violence become totally unacceptable among those who regarded themselves as civilized just when the terrible human butcheries of 1914-1918 were in preparation."
+
+241-2:  "The figure of the murderous monster, which fascinates a wide public avid for horror, speaks of the final human boundary that is crossed only by rare individuals who must surely be insane or deeply unbalanced."
+
+Chapter 8: Mortal Thrills and Crime Fiction (Sixteenth to Twentieth Centuries)
+---
