@@ -384,3 +384,23 @@ Chapter 5: The Long Peace
 But, didn't we determine that there was no way to predict in advance which war would be small versus large?
 
 222:  "The two world wars were, in a sense, horrifically unlucky samples from a statistical distribution that stretches across a vast range of destruction."
+
+223:  "at any time a small number of eight-hundred-pound gorillas are responsible for a majority of the mayhem. The great powers participated in about 70 percent of all the wars that Wright included in his half-millennium database for the entire world, and four of them have the dubious honor of having participated in at least a fifth of all European wars. [...] Countries that slip in or out of the great power league fight far more wars when they are in than when they are out."
+
+231:  "Modern Europe began in a Hobbesian state of frequent but small wars. The wars became fewer in number as political units became consolidated into larger states. At the same time the wars that did occur were becoming more lethal, because of a military revolution that created larger and more effective armies. Finally, in different periods European countries veered between totalizing ideologies that subordinated individual people's interests to a utopian vision and an Englightenment humanism that elevated those interests as the ultimate value."
+
+239:  "the French Revolution, became associated in Europe with the French Enlightenment. In fact it is better classified as the first implementation of fascism."
+
+Why?
+
+242:  "Another development of the 19th century that would undo Europe's long interval of peace was romantic militarism: the doctrine that war itself as a salubrious activity, quite apart from its strategic goals."
+
+245:  "the 19th century was host to yet another movement: a continuation of the Enlightenment critique of war. Unlike the strain of liberalism that developed a soft spot for nationalism, this one kept its eye on the individual human being as the entity whose interests are paramount. And it invoked the Kantian principles of democracy, commerce, universal citizenship, and international law as practical means of implementing peace."
+
+248:  "Hitler exploited the world's war-weariness..."
+
+BUT: we've ruled out war-weariness as a real phenomenom that either explains war or non-war.
+
+277:  "The psychology behind Global Zero is to extend the taboo on *using* nuclear weapons to a taboo on *possessing* them. Taboos depend on a mutual understanding that there are bright lines delineating all-or-none categories, and the line distinguishing zero from more-than-zero is the brightest of all."
+
+
