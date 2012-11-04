@@ -281,3 +281,106 @@ Eliding here. The first point--now glossed as 'societal connectedness'--was orig
 
 Chapter 4: The Humanitarian Revolution
 ---
+
+130:  "But the sporadic, clandestine, and universally decried eruptions of torture in recent times cannot be equated with the centuries of institutionalized sadism in medieval Europe. Torture in the Middle Ages was not hidden, denied, or euphemized. It was not just a tactic by which brutal regimes intimidated their political enemies or moderate regimes extracted information from suspected terrorists. It did not erupt from a frenzied crowd stirred up in hatred against a dehumanized enemy. No, torture was woven into the fabric of public life. It was a form of punishment that was cultivated and celebrated, an outlet for artistic and technological creativity."
+
+132:  "Both the Christian and secular legal systems, inspired by Roman law, used torture to extract a confession and thereby convict a suspect, in defiance of the obvious fact that a person will say anything to stop the pain."
+
+This is completely wrong.
+
+133:  "In the modern West and much of the rest of the world, capital and corporal punishments have been effectively eliminated, governments' power to use violence against their subjects has been severely curtailed, slavery has been abolished, and people have lost their thirst for cruelty. All this happened in a narrow slice of history, beginning in the Age of Reason in the 17th century and cresting with the Enlightenment at the end of the 18th."
+
+133:  "Some of this progressed--and if it wasn't progress, I don't know what is--was propelled by ideas: by explicit arguments that institutionalized violence ought to be minimized or abolished. And some of it was propelled by a change in sensibilities. People began to *sympathize* with more of their fellow humans, and were no longer indifferent to their suffering."
+
+134:  "The most benighted form of institutionalized violence is human sacrifice: the torture and killing of an innocent person to slake a deity's thirst for blood."
+
+135:  "Many institutionalized killings, however unforgivable, are at least understandable. People in power kill in order to eliminate enemies, deter troublemakers, or demonstrate their prowess. But sacrificing harmless children, going to war to capture victims, and raising a doomed caste from childhood hardly seem like cost-effective ways to stay in power."
+
+136:  "Something about mature, literate states eventually leads them to think the better of human suffering. One possibility is that the combination of a literate elite, the rudiments of historical scholarship, and contacts with neighboring societies gives people the means to figure out that the bloodthirsty-god hypothesis is incorrect. They infer that throwing a virgin into a volcano does not, in fact, cure diseases, defeat enemies, or bring them good weather. Another possibility, favoured by [James] Payne, is that a more affluent and predictable life erodes people's fatalism and elevates their valuation of other people's lives. Both theories are plausible, but neither is easy to prove, because it's hard to find any scientific or economic advance that coincides with the abandonment of human sacrifice."
+
+Note: Pinker's source for these claims, James Payne, is a fellow at the Independent Institute, a right wing libertarian think tank in California.
+
+139:  "In most of the world, institutionalized superstitious killing, wheter in human sacrifice, blood libel, or witch persecution, has succumbed to two pressures. One is intellectual: the realization that some events, even those with profound personal significance, must be attributed to impersonal physical forces and raw chance rather than the designs of other conscious beings."
+
+139:  "The other pressure is harder to explain but just as forceful: an increased valuation of human life and happiness."
+
+143:  "One gets a sense that people started to place a higher value on human life. Part of this newfound appreciation was an emotional change: a habit of identifying with the pains and pleasures of others. And another part was an intellectual and moral change: a shift from valuing *souls* to valuing *lives*."
+
+145:  "But the practical function of cruel punishments was just a part of their appeal. Spectators *enjoyed* cruelty, even when it served no judicial purpose."
+
+153:  "It [execution] is one of the many cases in which institutionalized violence was once seen as indispensable to the functioning of a society, yet once it was abolished, the society managed to get along perfectly well without it."
+
+159:  "He who loves by the sword dies by the sword, and in most of human history political murder--a challenger killing a leader and taking his place--was the primary mechanism for the transfer of power."
+
+159:  "Manuel Eisner has calculated that between 600 and 1800 CE, about one in eight European monarchs was murdered in office, mostly by noblemen, and that a third of the killers took over the throne."
+
+161:  "the value of the early designs for democracy was their upgradability."
+
+165:  "Together with satires suggesting that war was hypocritical and contemptible, the 18th century saw the appearance of theories holding that it was irrational and avoidable. One of the foremost was gentle commerce, the theory that the positive-sum payoff of trade should be more appealing than the zero-sum or negative-sum payoff of war. Though the mathematics of game theory would not be available for another two hundred years, the key idea could be stated easily enough in words: Why spend money and blood to invade a country and plunder its treasures when you can just buy it from them at less expense and sell them some of your own?"
+
+166:  "More important, democracies tend to avoid wars because the benefits of war go to a country's leaders whereas the costs are paid by its citizens. [...] But if the citizens are in charge, they will think twice about wasting their own money and blood on a foolish foreign adventure."
+
+167:  "Each of two democracies can recognize the validity of the principles that govern the other. That sets them apart from theocracies, which are based on parochial faiths, and from autocracies, which are based on clans, dynasties, or charismatic leaders. In other words, if one state has reason to believe that a neighboring one organizes its political affairs in the same way that it does because both have stumbled upon the same solution to the problem of government, then neither has to worry about the other one attacking, neither will be tempted to attack the other in preemptive self-defense, and so on, freeing everyone from the Hobbesian trap."
+
+169:  "In explaining the Humanitarian Revolution, then, we don't have to decide between unspoken norms and explicit moral argumentation. Each affects the other. As sensibilities change, thinkers who question a practice are more likely to materialize, and their arguments are more likely to get a hearing and then catch on. The arguments may not only persuade the people who wield the levers of power but infiltrate the culture's sensibilities by finding their way into barroom and dinner-table debates where they may shift the consensus one mind at a time."
+
+169:  "As always, the challenge is to find an exogenous change that precedes the change in sensibilities and behavior so we can avoid the circularity of saying that people stopped doing cruel things because they got less cruel."
+
+170:  "The enhanced decorum [of the civilizing process], she [Lynn Hunt] suggests, contributed to the sense that people are *autonomous*--that they own their own bodies, which have an inherent integrity and are not a possession of society. Bodily integrity was increasingly seen as worthy of respect, as something that may not be breached at the expense of the person for the benefit of society."
+
+170:  "An alternative explanation is that people become more compassionate as their own lives improve."
+
+174:  "People began to read secular rather than just religious material, to read to themselves instead of in groups, and to read a wide range of topical media, such as pamphlets and periodicals, rather than rereading a few canonical texts like almanacs, devotional works, and the Bible."
+
+174:  "The growth of writing and literacy strikes me as the best candidate for an exogenous change that helped set off the Humanitarian Revolution."
+
+Why did reading suddenly take off?
+
+175:  Two senses of empathy: "adopting someone's viewpoint" and "feeling compassion toward the person"
+
+176:  "Hunt suggests a causal chain: reading epistolary novels about characters unlike oneself exercises the ability to put oneself in other people's shoes, which turns one against cruel punishments and other abuses of human rights."
+
+177:  "And it may have contributed in a second way: by creating a hothouse for new ideas about moral values and the social order."
+
+180:  "The universe of ideas, in which one idea entails others, is itself an exogenous force, and once a community of thinkers enters that universe, they will be forced in certain directions regardless of their material surroundings."
+
+182:  "The commonality of basic human responses across cultures has profound implications. One is that there is a universal human nature. It encompasses our common pleasures and pains, our common methods of reasoning, and our common vulnerability to folly (not least the desire for revenge). Human nature may be studied, just as anything else in the world may be. And our decisions on how to organize our lives can take the facts of human nature into account--including the discounting of our own intuitions when a scientific understanding casts them in doubt."
+
+183:  "This line of reasoning may be called humanism because the value that it recognizes is the flourishing of humans, the only value that cannot be denied. I experience pleasures and pains, and pursue goals in service of them, so I cannot reasonably deny the right of other sentient agents to do the same."
+
+Chapter 5: The Long Peace
+---
+
+191:  "the radical possibility that World War II was a statistical fluke--that it was neither a step in an escalating series nor a harbinger of things to come, and not part of a trend at all."
+
+192:  long-term trends in warfare: "No cycles", "A big dose of randomness", "An escalation, recently reversed, in the destructiveness of war", and "Declines in every other dimension of war, and thus in interstate war as a whole".
+
+193:  "while the 20th century certainly had more violent deaths than earlier ones, it also had more people."
+
+193:  "*historical myopia*: the closer an era is to our vantage point in the present, the more details we can make out."
+
+203:  "In a Poisson process, events occur continuously, randomly, and independently of one another. [...] For reasons we have just seen, in a Poisson process the intervals between events are distributed exponentially: there are lots of shot intervals and fewer and fewer of them as they get longer and longer. That implies that events that occur at random will seem to come in clusters, because it would take a *non*random process to space them out."
+
+206:  "Richardson's major discovery about the timing of wars is that they begin at random."
+
+206:  "Richardson found that not only are the onsets of wars randomly timed; so are their offsets."
+
+212:  "Scientists are intrigued by power-law distributions for two reasons. One is that the distribution keeps turning up in measurements of things that you would think have nothing in common."
+
+213:  "The second remarkable thing about power-law distributions is that they look the same over a vast range of values."
+
+215:  "power-law distributions with the exponent we see for wars do not even have a finite mean. THere is no such thing as a 'typical war.'"
+
+215:  "power-law distributions are *scale-free*. As you slide up or down the line the log-log graph, it always looks the same, namely, like a line. The mathematical implication is that as you magnify or shrink the units you are looking at, the distribution looks the same."
+
+215:  "power-law distributions have 'thick tails,' meaning that they have a nonnegligible number of extreme values."
+
+215:  "The thick tail of a power-law distribution, which declines gradually rather than precipitously as you rocket up the magnitude scale, means that extreme values are *extremely unlikely* but not *astronomically unlikely*."
+
+221:  "the most damaging kinds of lethal violence (at least from 1820 to 1952) were murders and world wars; all the other kinds of quarrels killed far fewer people."
+
+222:  "That the two world wars killed 77 percent of the people who died in all the wars that took place in a 130-year period is an extraordinary discovery. Wars don't even follw the 80:20 rule that we are accustomed to seeing in power-law distributions. They follow an 80:2 rule: almost 80 percent of the deaths were caused by 2 *percent* of the wars. The lopsided ratio tells us that the global effort to prevent deaths in war should give the highest priority to preventing largest wars."
+
+But, didn't we determine that there was no way to predict in advance which war would be small versus large?
+
+222:  "The two world wars were, in a sense, horrifically unlucky samples from a statistical distribution that stretches across a vast range of destruction."
