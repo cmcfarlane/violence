@@ -403,4 +403,25 @@ BUT: we've ruled out war-weariness as a real phenomenom that either explains war
 
 277:  "The psychology behind Global Zero is to extend the taboo on *using* nuclear weapons to a taboo on *possessing* them. Taboos depend on a mutual understanding that there are bright lines delineating all-or-none categories, and the line distinguishing zero from more-than-zero is the brightest of all."
 
+281:  "not that democracies *never* go to war (in which case every putative counterexample becomes a matter of life or death) but that they go to war *less often* than nondemocracies, all else being equal."
 
+287:  "A democratic peace strongly kicks in only when *both* members of a pair of countries are democratic, but the effects of commerce are demonstrable when *either* member of the pair has a market economy."
+
+290:  "Russett and Oneal propose that membership in intergovernmental organizations is the third vertex of a triangle of pacifying forces which they attribute to Kant, the other two being democracy and trade."
+
+290:  "The researchers concluded that Kant got it right three out of three times: democracy favors peace, trade favors peace, and membership in intergovernmental organizations favors peace."
+
+Chapter 6: The New Peace
+---
+
+Chapter 7: The Rights Revolution
+---
+
+Chapter 8: Inner Demons
+---
+
+Chapter 9: Better Angels
+---
+
+Chapter 10: On Angels' Wings
+---
