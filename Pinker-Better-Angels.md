@@ -414,8 +414,102 @@ BUT: we've ruled out war-weariness as a real phenomenom that either explains war
 Chapter 6: The New Peace
 ---
 
+296:  "three kinds of organized violence that have stoked the new pessimism."
+
+296:  "The first kind of organized violence embraces all other categories of war, most notably the civil wars and wars between militias, guerrillas, and paramilitaries that plague the developing world."
+
+296:  "The second kind of organized violence I will track is the mass killing of ethnic and political groups."
+
+297:  "The third kind is terrorism."
+
+302:  "Even if we were to multiply the recent figures by five, they would sit well below the world's overall homicide rate of 8.8 per 100,000 per year."
+
+305:  "One major change has been in the theater of armed conflict. Wars today take place mainly in poor countries, mostly in an arc that extends from Central and East Africa through the Middle East, across Southwest Asia and northern India, and down into Southeast Asia."
+
+305:  "About half of the conflicts take place in the countries with the poorest sixth of the people."
+
+307:  "There must be a third variable [in addition to land/food and natural resources], presumably the norms and skills of a civilized trading society, that causes both wealth and peace."
+
+307:  "Their effects [structural variables], though, interact with the country's form of governance. The thickening of the civil war wedge in the 1960s had an obvious trigger: decolonization."
+
+307:  Quoting an unidentified Bosnian Croat: "We lived in peace and harmnony because every hundred meters we had a policeman to make sure we loved each other very much."
+
+308:  "Ideologies, whether relious or political, push wars out along the tail of the deadliness distribution because they inflame leaders into trying to outlast their adversaries in destructive wars of attrition, regardless of the human costs."
+
+309:  "A world that is less invigorated by honor, glory, and ideology and more tempted by the pleasures of bourgeois life is a world in which fewer people are killed."
+
+310:  "go to the mountains and grow bears, or do nothing and stay a modern country."
+
+311:  "Countries with an abundance of nonrenewable, easily monopolized resources have slower economic growth, crappier governments, and more violence."
+
+321:  "killing-by-category targets people for what they *are* rather than what they *do* and thus seems to flout the usual motivces of gain, fear, and vengeance."
+
+327:  Noting the use of biological metaphors in dehumanization: "The human mind has evolved a defense against contamination by biological agents: the emotion of disgust. [...] disgust impels people to eject the polluting substance and anything that looks like it or has been in contact with it. Digust is easily moralized [...]. And so we see disgusting agents as not just physically repellent but also morally contemptible."
+
+328:  "to kill by the millions you need an *ideology*."
+
+Subsequent examples suggest that an ideology is whatever causes people to kill by the millions. Not an especially rigorous definition.
+
+328:  "Utopian ideologies invite genocide for two reasons. One is that they set up a pernicious utilitarian calculus."
+
+329:  "The second genocidal hazard of a utopia is that it has to conform to a tidy blueprint."
+
+336:  "His [Rummel] definition of 'democide' corresponds roughly to the UCDP's 'one-sided violence' and to our everyday concept of 'murder' but with a government rather than an individual as the perpetrator: the victims must be unarmed, and the killing deliberate."
+
+This is hardly "our everyday concept of murder."
+
+340-1:  "Harff was tasked not just with compiling genocides but with identifying their risk factors. She noted that virtually all of them took place in the aftermath of a state failure such as a civil war, revolution, or coup."
+
+341-2:  "six risk factors that distinguished the genocidal from the nongenocidal crises [...]. One was a country's previous history of genocide [...]. The second predictor was the country's immediate history of political instability [...]. A third was a ruling elite that came from an ethnic minority [...]. [...] democracy is a key factor in preventing genocides. [...] openess to trade. [...] The last predictor of genocide is an exclusionary ideology."
+
+345:  "terrorism is generally understood as premeditated violence perpetrated by a nonstate actor against noncombatants (civilians or off-duty soldiers) in pursuit of a political, religious, or social goal, designed to coerce a government or to intimidate or convey a message to a larger audience."
+
+346:  Perceived danger of a risk depends on two factors:  "fathomability: it's better to deal with the devil you know than the devil you don't. People are nervous about risks that are novel, undetectable, delayed in their effects, and poorly understood by the science of the day. The second contributor is dread. People worry about worst-case scenarios, the ones that are uncontrollable, catastrophic, involuntary, and inequitable (the people exposed to the risk are not the ones who benefit from it).
+
+346:  "Fallacies in risk perception are known to distort public policy. Money and laws have been directed at keeping additives out of food and chemical residues out of water supplies which pose infinitesimal risks to health, while measures that demonstrably save lives, such as enforcing lower highway speeds, are resisted.
+
+353:  "The only real technological hurdle is the willingness of the young man. Ordinarily a human being is unwilling to die, the legacy of half a billion years of natural selection. How have terrorist leaders overcome this obstacle?"
+
+356:  "Far from being ignorant, impoverished, nihilistic, or mentally ill, suicide terrorists tend to be educated, middle class, morally engaged, and free of obvious psychopathology."
+
+368:  "Terrorist attacks obey a power-law distribution, which means they are generated by mechanisms that make extreme events unlikely, but not astronomically unlikely."
+
 Chapter 7: The Rights Revolution
 ---
+
+379:  "But in the past half-century the momentum has been going squarely against boys of all ages."
+
+380:  "The efforts to stigmatize, and in many cases criminalize, temptations to violence have been advanced in a cascade of campaigns for 'rights'--civil rights, women's rights, children's rights, gay rights, and animal rights."
+
+What's with the scare-quotes around "rights"?
+
+381:  "The code of etiquette bequeathed by this and the other Rights Revolutions is pervasive enough to have acquired a name. We call it political correctness."
+
+Who is this we?
+
+382:  "The oppression of women used to include laws that allowed husbands to rape, beat, and confine their wives; today it is applied to elite universities whose engineering departments do not have a fifty-fifty ratio of male and female professors."
+
+Where is this the case given that such "quotas" are illegal?
+
+383:  "An ethnic riot combines aspects of genocide and terrorism with features of its own. Unlike these two other forms of collective violence, it is not planned, has no articulated ideology, and is not masterminded by a leader or implemented by a government or militia, though it does depend on the government sympathizing with the perpetrators and looking the other way. Its psychological roots, though, are the same as those of genocide."
+
+385:  "The murder took place a few years after the FBI had begun to gather statistics on so-called hate crimes, namely acts of violence that target a person because of race, religion, or sexual orientation."
+
+So-called?
+
+386:  "The so-called race riots of the mid-1960s in Los Angeles, Newark, Detroit, and other American cities represented a different phenomenon altogether: African Americans were the rioters rather than the targets, death tolls were low (mostly rioters themselves killed by the police), and virtually all the targets were property rather than people."
+
+388:  "Horowitz identifies several reasons for the disappearance of deadly ethnic riots in the West. One is governance. For their abandon in assaulting their victims, rioters are sensitive to their own safety, and know when the police will turn a blind eye. Prompt law enforcement can quell riots and nip cycles of group-against-group revenge in the bud, but the procedures have to be thought out in advance. Since the local police often come from the same ethnic gorup as the perpetrators and may sympathize with their hatreds, a professionalized national militia is more effectivve than the neighborhood cops. And since riot police can cause more deaths than they prevent, they must be trained to apply the minimal force needed to disperse a mob."
+
+388:  "The other cuase of the disappearance of deadly ethnic riots is more nebulous: a rising ahborrence of violence, and of even the slightest trace of a mindset that might lead to it."
+
+427:  "Modern sensibilities have increasingly conceived moral worth in terms of *consciousness*, particularly the ability to suffer and flourish, and have identified consciousness with the activity of the brain."
+
+446:  "The annual number of abuctions by strangers has ranged from 200 to 300 in the 1990s to about 100 today, around half of whom are murdered. With 50 million children in the United States, that works out to an annual homicide rate of one in a million (0.001 per hundred thousand, to use our usual metric). That's about a twentieth of the risk of drowning and a fortieth of the risk of a fatal car accident. The writer Warwick Cairns calculated that if you *wanted* your child to be kidnapped and held overnight by a stranger, you'd have to leave the child outside and unattended for 750,000 years."
+
+477:  "If I were to put my money on the single most important exogenous cause of the Rights Revolution, it would be the technologies that made ideas and people increasingly mobile."
+
+478:  "the key to material success is being situated in a large catchment area of innovations."
 
 Chapter 8: Inner Demons
 ---
