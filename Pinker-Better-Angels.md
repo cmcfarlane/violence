@@ -514,8 +514,66 @@ So-called?
 Chapter 8: Inner Demons
 ---
 
+482:  "Violence is found throughout the history and prehistory of our species, and shows no signs of having been invented in one place and spreaad to the others."
+
+482:  "Let to their own devices, humans will not fall into a state of peaceful cooperation, but nor do they have a thirst for blood that must regularly be slaked."
+
+483:  "So let me begin by convincing you that most of us--including you, dear reader--are wired for violence, even if in all likelihood we will never have an occasion to use it."
+
+486:  "If violence is stamped into our childhoods, our fantasy lives, our art, and our brains, then how is it possible that soldiers are reluctant to fire their guns in combat, when taht is what they are to do?"
+
+488:  "[Roy] Baumeister was moved to study [in *Evil*] the commonsense understanding of evil when he noticed that the people who perpetrate destructive acts, from everyday peccadilloes to serial murders and genocides, never think they are doing anything wrong."
+
+490-1:  "A social group is a marketplace of cooperators of differing degrees of generosity and trustworthiness, and people advertise themselves as being generous and trustworthy as they can get away with, which may be a bit more generous and trustworthy than they are."
+
+497:  "The most obvious form of aggression in the animal kingdom is predation. [...] Yet biologically speaking, predation for food could not be more different from aggression against rivals and threats."
+
+502:  "THe neuroanatomy suggests that in *Homo sapiens* primitive impulses of rage, fear, and craving must contend with the cerebral restraints of prudence, moralization, and self-control--though as in all attempts at taming the wild, it's not always clear who has the upper hand."
+
+508-9:  Five causes/roots/categories (Pinker is confused on what he is talking about using he terms interchangeably): practical ("use of force as a means to an end"), dominance ("drive for supremac over one's rivals"), revenge ("the drive to pay back a harm in kind), sadism ("the joy of hurting," "puzzling and horrifying in equal measure"), and ideology ("most consequential," "true believers weave a collection of motives into a creed and recruit other people to carry out its destructive ends," "cannot be identified with a part of the brain or evevn with a whole brain, because it is distributed across the brains of many people").
+
+509:  "Because predatory violence is just a means to a goal, it comes in as many varieties as there are human goals. The paradigm case is literal predation--hunting for food or sport--because it involves no animosity toward the victim."
+
+*or*? *no*? And then goes on to discuss that hunter's actually identify with their prey and valorize their prey. But, why is this explanation taken at face value given, for instance, the long discussion of perpetrator vs. victim narratives? 
+
+509:  Indeed, he comments, "There may even be an element of love."
+
+519:  "Incidentally, the first law of violence--it's something that young men do--is easier to document than to explain. Though it's clear why men should have evolved to be more violent than women, it's not so clear why young men should be more violent than old men."
+
+528:  "We don't know what causes what, but biology and history suggest that all else being equal, a world in which women have more influence will be a world with fewer wars."
+
+547:  "It's hard to single out the most heinous form of human depravity--there are so many to choose from--but if genocide is the worst by quantity, sadism might be the worst by quality."
+
+549:  "The development of sadism requires two things: motives to enjoy the suffering of others, and a removal of the restraints that ordinarily inhibit people from acting on them."
+
+557:  "The overall problem is that groups take on an identity of their own in people's minds, and individuals' desire to be accepted within a group, and to promote its standing in comparison to other groups, can override their better judgment."
+
+Seems to suggest that groups are properties of individuals rather than being real in their own right.
+
+569:  "Yet much of the decline in violence seems to have come from changes in the times."
+
+Suggests that the change is sociological rather than psychological.
+
 Chapter 9: Better Angels
 ---
+
+574:  "The original and most mechanical sense of empathy is *projection*--the ability to put oneself into the position of some other person, animal, or object, and imagine the sensation of being in that situation."
+
+574:  "Closely related is the skill of *perspective-taking*, namely visualizing what the world looks like from another's vantage point."
+
+575:  "*Mind-reading*, *theory of mind*, *mentalizing*, or *emphatic accuracy* is the ability to figure out what someone is thinking or feeling from their expressions, behavior, or circumstances. [...] Mind-reading may in fact comprise two abilities, one for reading thoughts (which is impaired by autism), the other for reading emotions (which is impaired in psychopathy)."
+
+576:  Different from sympathy, which "consists in aligning another entity's well-being with one's own, based on a cognizance of their pleasures and pains."
+
+590:  "empathy can *subvert* human well-being when it runs afoul of a more fundamental principle, fairness."
+
+591:  "The other problem with empathy is that it is too parochial to serve as a force for a universal consideration of people's interests."
+
+591:  "What really has expanded is not so much a circle of empathy as a circle of *rights*--a commitment that other living things, no matter how distant or dissimilar, be safe from harm and exploitation."
+
+621:  "So while recent biological evolution may, in theory, have tweaked our inclinations toward violence and nonviolence, we have no good evidence that it actually has. At the same time, we do have good evidence for changes that could not possibly be genetic, because they unfolded on time scales that are too rapid to be explained by natural selection, even with the new understanding of how recently it has acted."
+
+622:  "When it comes to virulent ideologies, morality may be the disease, but morality is also the cure."
 
 Chapter 10: On Angels' Wings
 ---
