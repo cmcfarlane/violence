@@ -577,3 +577,43 @@ Chapter 9: Better Angels
 
 Chapter 10: On Angels' Wings
 ---
+
+671:  "Declines of violence are a product of social, cultural, and material conditions. If the conditions persist, violence will remain low or decline even further; if they don't, it won't."
+
+673:  Technological determinism of weapons does not cause an increase or decrease in violence.
+
+674:  Distribution of finite natural resources does not cause an increase or decrease in violence.
+
+675:  Distribution of wealth does not cause an increase or decrease in violence.
+
+678:  Religion does not cause an increase or decrease in violence.
+
+680:  "A state that uses a monopoly on force to protect its citizens from one another may be the most consistent violence-reducer that we have encountered in this book."
+
+683:  "once people are enticed into voluntary exchange, they are encouraged to take each other's perspectives to clinch the best deal ('the customer is always right'), which in turn may lead them to respectful consideration of each other's interests, if not necessarily to warmth."
+
+683:  Attributes to Elias the view that the civilizing process = leviathan + gentle commerce.
+
+684:  "many cultures maintain active networks of exchange, even when the goods exchanged are useless gifts, because they know it helps keep the peace among them."
+
+685:  "a more feminized world is a more peaceful world."
+
+686:  "Feminization need not consist of women literally wielding more power in decisions on whether to go to war. It can also consist in a society moving away from a culture of manly honor, with its approval of violent retaliation for insults, toughening of boys through physical punishment, and veneration of martial glory."
+
+687:  "violence is always a bad thing except when it prevents greater violence"
+
+688:  "Violence is a problem not just of too many males but of too many *young* males."
+
+688:  "Several varieties of feminization, then--direct political empowerment, the deflation of manly honor, the promotion of marriage on women's terms, the right of girls to be born, and women's control over their own reproduction--have been forces in the decline of violence."
+
+689:  "smaller increments in the valuation of other people's interests--say, a susceptibility to pangs of guilt when thinking about enslaving, torturing, or annihilating others--could shift the likelihood of aggressing against them."
+
+690:  "The first [expanding circle] involves occupying another person's vantage point and imagining his or her emotions as if they were one's own. The second [escalator of reason] involves ascending to an Olympian, superrational vantage point--the perspective of eternity, the view from nowhere--and considering one's own interests and another person's as equivalent."
+
+691:  "A humanistic value system, which privileges human flourishing as the ultimate good, is a product of reason because it can be *justified*: it can be mutually agreed upon by any community of thinkings who value their own interests and are engaged in reasoned negotiation, whereas communal and authoritarian values are parochial to a tribe or hierarchy."
+
+691:  "the evidence suggests that value systems evolve in the direction of liberal humanism."
+
+692:  "The decline in violence may be the most signficant and least appreciated development in the history of our species."
+
+692:  "A loathing of modernity is one of the great constants of contemporary social criticism."

@@ -609,3 +609,50 @@ Chapter 8: Mortal Thrills and Crime Fiction (Sixteenth to Twentieth Centuries)
 271:  "The principal function of detective fiction, the *fait divers* and 'popular' literature was to promote greater social integration."
 
 272:  "The monstrous *fait divers* made the reader uneasy, but the murder investigation in the hands of a competent sleuth brought reassurance."
+
+Chapter 9: The Return of the Gangs: Contemporary Adolescence and Violence
+---
+
+275-6:  "Homicide and intentional woundings are now residual, responsible for only a tiny fraction of violent deaths. Road accidents, suicide and other forms of self-destruction eliminate a much larger proportion of adolescents. Few now dare to kill another human being, transgressing the supreme prohibition, but those who do are getting younger."
+
+277:  "In this hypothesis, the relationship between homicide and suicide should be in inverse proportion, the near-disappearance of the former having as its price a marked rise in the latter at a time of stock-taking, that is, on reaching maturity or old-age."
+
+278:  "The interdependence of the two phenomena would surely repay further study."
+
+278:  "Murder contains an irreducible element of unfathomable mystery."
+
+280:  "Murderers have been getting younger since the nineteenth century."
+
+281:  "Very young murderers constitute a minority, but their cases are given huge media prominence, which helps shape the public perception of juvenile delinquincy by linking it directly to lethal violence."
+
+281:  "The real issue here is probably not so much the homicide itself, since this has always been more easily tolerated than in Europe, as the dogma of the innocence of the child."
+
+281:  "The attempt to make the 'dangerous classes' conform has been the chief aim of the authorities since the nineteenth century."
+
+282:  "The principal hypothesis for explaining their growth in Europe since the mid twentieth century is that they are the modern form of expression of a deep youthful dissatisfaction in the face of the adult world and established society. However, their extreme symbolic violence, emphasized by very threatening forms of behaviour, dos not prevent the majority of their members from accepting the prohibition on murder."
+
+283:  "In other words, while adolescents who kill have become increasingly rare over time, the peaks in the murders they commit are every time a sign of a worsening of their relations with established adult men."
+
+285:  "a decisive shift from the punitive to the therapeutic."
+
+285:  "Virtually absent from this debate is the criminal girl. By the beginning of the nineteenth century, the problem was perceived as essentially one of young boys."
+
+288:  "Unlike the sons of the peasantry in the sixteenth century, or the noble duellists of the sixteenth and seventeenth centuries, the majority of adolescents today never kill or injure one of their peers or any other human being. They are usually able to control their aggression, or deflect it into symbolic confrontations, especially in sport or intellectual or artistic sublimation. The very rare murderers who transgress these powerful prohibitions are often from underprivileged backgrounds where honour and force remain essential values."
+
+288:  "Violence has been tamed and made to serve society."
+
+291:  "Gangs of young males are neither an anamoly nor a pathology."
+
+292-3:  "They are rough and intensely quarrelsome, but not, on the whole, hardened delinquents; rather, they live on the margins of legality and are quick to riot, especially against the police, when they sense an injustice." 
+
+293:  "They [gangs] do not disappear, however, because they are indispensable refuges against a double hostility, that of an external world represented by the police and that of the neighbours whose already difficult lives they disrupt."
+
+299:  "The return of the gangs is also the return of the repressed. The sudden irruption of the problem, at fairly regular intervals, when a large number of teenagers approach maturity and encounter too many obstacles to integration, is every time a sign of the breakdown of the tacit pact governing the transmission of property, power and values from one generation to the next."
+
+Is the End of Violence Possible?
+---
+
+301:  "Homicide has retained one sociological characteristic almost unchanged since the thirteenth century, that is, it is overwhelmingly the act of adolescent or recently married males, whose victims are usually their peers."
+
+301:  "Non-fatal violence has also been considerably reduced in our world. The resort to force to settle a quarrel has been literally invalidated, both by the legally constituted state and by the growth, since the seventeenth century, of powerful 'auto-constraints' regulating relationships with others."
+
