@@ -23,13 +23,53 @@ Chapter 1: Sacrifice, Hunting, and Funerary Rituals
 
 5:  "The 'act' is over; its consequences are the next concern. The animal is carved up and disembowelled. Its inner organs are now the main focus, lying revealed, an alien, bizarre, and uncanny sight, and yet common in the same form to men as well, as is known from seeing wounded soldiers."
 
-6:  "In general, however, the σπλάγχνα [viscera]--the collective term for the organs--are quickly roasted in the fire from the altar and eaten at once. Thus the inner circle of active participants is brought together in a communal meal, transforming horror into pleasure. Only the bile is inedible and has to be disposed of. Likewise, the bones are not to be used for the subsequent meal, so they are 'consecrated' beforehand. The bones, above all the thigh-bones (μηρία) and the pelvis with the tail (ὀσφύς), are put on the alter 'in the proper order.' From the bones, one can still see exactly how the parts of the living animal fit together: its basic form is restored and consecrated."
+6:  "In general, however, the *σπλάγχνα* [viscera]--the collective term for the organs--are quickly roasted in the fire from the altar and eaten at once. Thus the inner circle of active participants is brought together in a communal meal, transforming horror into pleasure. Only the bile is inedible and has to be disposed of. Likewise, the bones are not to be used for the subsequent meal, so they are 'consecrated' beforehand. The bones, above all the thigh-bones (*μηρία*) and the pelvis with the tail (*ὀσφύς*), are put on the alter 'in the proper order.' From the bones, one can still see exactly how the parts of the living animal fit together: its basic form is restored and consecrated."
 
 7:  "This rite is objectionable, and was already felt to be so early on, because it so clearly and directly benefits man. Is the god 'to whom' the sacrifice is made any more than a transparent excuse for festive feasting? All he gets are the bones, the fat, and the gall bladders."
 
 8:  "This book [Theophrastus's *On Piety*] explained animal sacrifice as having replaced cannibalism, which, in turn, had been forced on men because of difficult times."
 
+12:  "a triad of sacrificial festivals emerges which yet adheres to the same unchangeable rhythm: the preliminary sacrifice, the terrifying sacrifice, and the victorious, affirming sacrifice. The core is always the experience of death brought upon by human violence, which, in turn, is here subject to predetermined laws. And this is nearly always connected with another human--all too human--action, namely, eating: the festive meal of those who share in the sacred."
 
+15:  "One could, of course, try to cut through these correspondences with conceptual distinctions, and separate hunting and sacrifice on principle. In the hunt, one might argue, killing is not ceremonial but practical and subject to chance; its meaning and goal, both quite profane, lie in obtaining meat for food; a wild beast must be seen in opposition to a tame domestic animal. And yet the very similarity of hunting and sacrificial customs belies such a distinction. Killing can become ceremonial even among hunters. [...] On the other hand, the hunting situation is often evoked and acted out in later civilizations, as if one had to catch a wild beast so as to sacrifice it at a predetermined place."
+
+16:  "The ritual provides forgiveness and reparation, though frequently taking on a scurrilous character which prompted Meuli to coin the phrase 'the comedy of innocence.' The ritual betrays an underlying anxiety about the continuation of life in the face of death. The blood 'act' was necessary for the continuance of life, but it is just as necessary for new life to be able to start again. Thus, the gathering of bones, the raising of a skull or stretching of a skin is to be understood as an attempt at restoration, a resurrection in the most concrete sense. The hope that the sources of nourishment will continue to exist, and the fear that they will not, determine the action of the hunter, killing to live."
+
+17:  "The transition to the hunt is, rather, one of the most decisive ecological changes between man and the other primates. Man can virtually be defined as 'the hunting ape' (even if 'the naked ape' makes a more appealing title)."
+
+17:  Given the overwhelming amount of evolutionary history of *homo sapiens* being Palaeolithic (between 95 and 99 percent) in comparison to the roughly 10,000 years of agriculture, "From this perspective, then, we can understand man's terrifying violence as deriving from the behavior of the predatory animal, whose characteristics he came to acquire in the course of becoming man." Therefore endorses a version of evolutionary psychology. However, notes that humans could only become 'hunting ape' through (1) adoption of weapons, first bone club and then fire-hardened wooden spear for throwing and (2) sexual division of labour in complex social forms. 
+
+18:  "The success of the 'hunting ape' was due to his ability to work cooperatively, to unite with other men in a communal hunt. Thus, man ever since the development of hunting has belonged to two overlapping social structures, the family and the *Männerbund*; his world falls into pairs of categories: indoors and out, security and adventure, women's work and men's work, love and death. At the core of this new type of male community, which is biologically analogous to a pack of wolves, are the acts of killing and eating. The men must constantly move between the two realms, and their male children must one day take the difficult step from the women's world to the world of men. Fathers must accept their sons, educating them and looking after them--this, too, has no parallel among mammals. When a boy finally enters the world of men, he does so by confronting death."
+
+18:  "What an experience it must have been when man, the relative of the chimpanzee, succeeded in seizing the power of his deadly enemy, the leopard, in assuming the traits of the world, forsaking the role of the hunted for that of the hunter! But success brought its own dangers. The earliest technology created the tools for killing. Even the wooden spear and wedge provided man with weapons more dangerous than his instincts could cope with. His rudimentary killing inhibitions were insufficient as soon as he could kill at a distance; and males were even educated to suppress these inhibitions for the sake of the hunt. Moreover, it is as easy, or even easier, to kill a man as it is to kill a fleeing beast, so from earliest times men slipped repeatedly into cannibalism. Thus, from the very start, self-destruction was a threat to the human race."
+
+19:  "A man had to be courageous to take part in the hunt; therefore, courage is always included in the conception of an ideal man. A man had to be reliable, able to wait, to resist a momentary impulse for the sake of a long-range goal. He had to have endurance and keep to his word. In these matters men developed behavior patterns that were lacking in anthropoid apes and were closely analogous to the behavior of beasts of prey. Above all, the use of weapons was controlled by the strictest--if also artificial--rules: what was allowed and necessary in one realm was absolutely forbidden in the other."
+
+20:  "it is precisely group demonstration of aggression toward outsiders that creates a sense of close personal community."
+
+20:  "Because the hunter's activity was reinforced by behavior aimed originally at a human partner--that is, through intraspecific aggression--in place of a biologically fixed relationship of beast and quarry, something curious occurred: the quarry became a quasi-human adversary, experienced as human and treated accordingly. Hunting concentrated on the great mammals, which conspicuously resembled men in their body structure and movements, their eyes and their 'faces,' their breath and voices, in fleeing and in fear, in attacking and in rage. Most of all, this similarity with man was to be recognized in killing and slaughtering: the flesh was like flesh, bones like bones, phallus like phallus, and heart like heart, and, most important of all, the warm running blood was the same. One could, perhaps, most clearly grasp the animal's resemblance to man when it died. Thus, the quarry turned into a sacrificial victim."
+
+22:  "man became man through the hunt, through the act of killing."
+
+22-3:  "Although sacrifice began in the hunt, it appeared at its most meticulous and brilliant in the ancient city cultures, and at its most gruesome in Aztec civilization. It maintained its form and perhaps even acquired its purely religious function outside the context in which killing was necessary for life. For the action to be thus redirected and maintained, there had to be ritualization."
+
+23:  "the two basic characteristics of ritual behavior, namely, repetition and theatrical exaggeration: For the essentially immutable patterns do not transmit differentiated and complex information but, rather, just one piece of information each. This single piece of information is considered so important that it is reinforced by constant repetition so as to avoid misunderstanding or misuse. The fact of understanding is thus more important than what is understood. Above all, then, ritual creates and affirms social interaction."
+
+26:  "Those who will not or cannot conform to the rituals of a society have no chance in it."
+
+27-8:  "Ideas do not produce ritual; rather, ritual itself produces and shapes ideas, or even experiences and emotions."
+
+33:  "The most exciting themes in myth come from the realm of sexuality and aggression, and these are also prominent in ritual communication. The most fascinating stories concern the perils of death and destruction. These have their counterparts in sacrificial killing."
+
+34:  "In hunting and then in sacrifice, aggressive modes of behavior between men are diverted onto animals; in the myth, on the other hand, is a human victim."
+
+34:  "There has yet to be a community without ritual."
+
+35:  "a sense of community arises from collective aggression."
+
+35:  "Whether in Israel, Greece, or Rome, no agreement, no contract, no alliance can be made without a sacrifice. And, in the language of the oath, the object of aggression that is to be 'stuck' and 'cut' becomes virtually identical with the covenant itslef: *foedus ferire* [strike/cut an agreement], *ὅρκια πιστὰ τέμνειν*."
+
+36:  "It is in the sacrificial procession that the empire's power becomes manifest."
 
 Chapter 2: Werewolves Around the Tripod Kettle
 ---
