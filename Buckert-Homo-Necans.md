@@ -71,6 +71,28 @@ Chapter 1: Sacrifice, Hunting, and Funerary Rituals
 
 36:  "It is in the sacrificial procession that the empire's power becomes manifest."
 
+36:  "The closer the bond, the more gruesome the ritual. Those who swear an oath must touch the blood from the accompanying sacrifice and even step on the testicles of the castrated victim. They must eat the meat of the victim as well, or at least the *σπλάγχνα*."
+
+37:  "The sacrificial community is thus a model of society as a whole, divided according to occupation and rank. Hence, the hierarchies manifested in the ceremony are given great social importance and are taken very seriously."
+
+43:  "We find a transitional phase documented at Çatal Hüyük. The most important religious symbol in this farming town where goat and sheep had long been domesticated was a pair of horns from the wild bull, and wall paintings contain clear, thrilling depictions of the ritual hunt of a band of leopard men. We can even trace the gradual extinction of wild cattle in Çatal Hüyük, though not the critical step that followed: in place of the dwindling bands of wild animals, domestic ones were now used for sacrifice. The animal must, of course, now be removed from the everyday world; it must become sacred. Hence the adornment and the procession, and, sometimes, the animal being set free and recaptured."
+
+45:  "Contracts are sealed with libations of wine (*σπονδαι*), and weddings are celebrated by cutting up cake or bread; cutting or breaking must still precede eating, just as slaughter precedes the eating of meat."
+
+45:  Notes that in Greece, all sacrificial victims were animal, but in the tropics--with climates favourable to crop growth--human sacrifice, including cannibalism, was routinely practiced.
+
+45:  "Civilized life endures only by giving a ritual form to the brute force that still lurks in men."
+
+46:  "Deprived of its hunting quarry, the secret society makes the initiand himself into a victim. The group's aggression becomes focused on this man and he is forthwith killed--symbolically, of course; a sacrificial animal is substituted at the last minute. However, the bloodshed and the refined methods of torture are very real and guarantee the seriousness of the ritual. The gruesome 'evil' at work in the ritual fulfills a function, i.e., to preserve a social structure over the course of generations. Once again, life rises up from the peril of death. Indeed, the individual experiences himself how, after life had been endangered, there is a resurrection, a rebirth."
+
+47:  There is another, far more serious, way to divert aggression toward the outside world: by integrating large groups of men in a common fighting spirit, i.e., war."
+
+47:  "War is ritual, a self-portrayal and self-affirmation of male society. Male society finds stability in confronting death, in defying it through a display of readiness to die, and in the ecstasy of survival. Such modes of behavior are so bound up with the governmental systems and values of our society that even today, when modern military technology has made war so distant that its absurdity is patent, when it is beginning to be the source of discord rather than of solidarity, still final emancipation from war lies far in the future."
+
+47:  "For the ancient world, hunting, sacrifice, and war were symbolically interchangeable."
+
+48:  "As a rule, the Greeks' *σπονδαι* [treaty, truce] were for a period of thirty years at most. Each generation has the right and obligation to have its war."
+
 Chapter 2: Werewolves Around the Tripod Kettle
 ---
 
