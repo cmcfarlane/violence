@@ -93,6 +93,34 @@ Chapter 1: Sacrifice, Hunting, and Funerary Rituals
 
 48:  "As a rule, the Greeks' *σπονδαι* [treaty, truce] were for a period of thirty years at most. Each generation has the right and obligation to have its war."
 
+49:  "the Palaeolithic era, in which burial evolved, was also the age of hunting. Thus, the ritual of hunting and sacrificing accompanied the funerary ritual from the start, each influencing the other. In prehistory and ethology it generally holds true that dead men and dead animals are treated alike: both rituals deal with death."
+
+49:  "Homo sapiens is also homo necans and homo sepelians [burying]."
+
+50:  "The most widespread element in funerals--so obvious it may seem hardly worth mentioning--is the role played by eating, i.e., the fenerary meal."
+
+50:  "At first the necessary combination of death and eating appeared only in the hunt. Starting here, the ritual meal functioned as a bond within the community. This is not to say that cannibalism was the earliest form of honoring the dead. The ritualization of hunting behavior made possible a twofold transferral: the dead could take the place of the quarry--a substitute more serious than what it replaces--but in the subsequent feast, his place could in turn be taken by the sacrificial animal."
+
+52:  "The rhythm of the hunting ritual is, thus, repeated: death/tearing apart/restoration."
+
+59:  "Whether it be a stick or a club, a spear or a sword, a gun or a cannon, as a symbol of masculinity the weapon has been equivalent to and almost interchangeable with the sexual organs from Stone Age drawings to modern advertising."
+
+60-1:  "Precisely because the act of killing is sexually charged, sexual abstinence is frequently a part of preparing for sacrifice, for war, and for the hunt."
+
+65:  "Among the Greeks, preliminary maiden-sacrifice is for the most part a prelude to war."
+
+67:  "In the paradox that both the god of the hunt and the god of war were 'virgins' we observe the sexual tensions, the frustration and symbolic substitution, upon which hunting and warring behavior feeds."
+
+68:  "When stimulated by sexual jealousy, the destructive rage operating in the battle of man against man will turn against the adversary's masculinity: when killed, a warrior is immediately castrated. This has occurred regularly in wars up until recent times, and it appears to be a basic element in man's fighting instinct."
+
+71:  "A large phallus would be built from a beam, painted with wax colors, and equipped with large wooden wings. The phallus-bird has long been known to us from an often-reproduced votive offering on Delos and from the art of Attic vase-painters. In the Delian ritual, however, it was driven on a lead-weighted wagon down the 'river'; while the wagon sank in the water, the phallus-bird floated out to sea and out of sight. This phallagogia is clearly a closing ritual, for the act of worship includes disposing of the object of worship."
+
+71:  "The larger the phallus, the greater the element of humor..."
+
+72:  "Orgies and death are close neighbors."
+
+75:  "Conscious killing is a kind of patricide."
+
 Chapter 2: Werewolves Around the Tripod Kettle
 ---
 
