@@ -124,6 +124,12 @@ Chapter 1: Sacrifice, Hunting, and Funerary Rituals
 Chapter 2: Werewolves Around the Tripod Kettle
 ---
 
+84:  "Not just the religious cult, but the order of society itself takes shape in sacrifice."
+
+89:  "The leopard, one of the great cats and a climber, was the primate's arch-enemy. By training himself in the ways of the wolf, man became a hunter and lord of the earth. Could it be that these bands of leopard men and wolf men were the direct result of this decisive step?"
+
+
+
 Chapter 3: Dissolution and New Year's Festival
 ---
 
